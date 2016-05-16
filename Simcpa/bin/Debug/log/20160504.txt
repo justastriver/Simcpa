@@ -1,0 +1,1743 @@
+[2016-05-04 15:23:53,531][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 15:37:12,765][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 15:37:17,687][DEBUG]数据库已经存在: E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa\bin\Debug\Data\Simcpa.mdb
+[2016-05-04 15:37:17,765][ERROR]创建数据库表 出错：表 'Simcpa' 已存在。
+[2016-05-04 15:37:17,812][DEBUG]正在同步打印机配置信息
+[2016-05-04 15:37:17,890][DEBUG]同步打印机配置信息完成
+[2016-05-04 15:37:17,890][DEBUG]Load ok !
+[2016-05-04 15:37:17,906][DEBUG]打印任务完成成功
+[2016-05-04 15:37:18,015][DEBUG]打印任务完成成功
+[2016-05-04 15:37:18,125][DEBUG]打印任务完成成功
+[2016-05-04 15:37:18,234][DEBUG]打印任务完成成功
+[2016-05-04 15:37:18,343][DEBUG]打印任务完成成功
+[2016-05-04 15:37:18,453][DEBUG]打印任务完成成功
+[2016-05-04 15:37:18,562][DEBUG]打印任务完成成功
+[2016-05-04 15:37:18,671][DEBUG]打印任务完成成功
+[2016-05-04 15:37:18,781][DEBUG]打印任务完成成功
+[2016-05-04 15:37:18,796][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:18,796][DEBUG]driver printer gonna print
+[2016-05-04 15:37:18,812][DEBUG]really print over: 1
+[2016-05-04 15:37:18,890][DEBUG]打印任务完成成功
+[2016-05-04 15:37:19,000][DEBUG]打印任务完成成功
+[2016-05-04 15:37:19,109][DEBUG]打印任务完成成功
+[2016-05-04 15:37:19,125][DEBUG]order id: 1, order no: 1, printer id: 1 print OK
+[2016-05-04 15:37:19,140][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:19,140][DEBUG]driver printer gonna print
+[2016-05-04 15:37:19,140][DEBUG]really print over: 2
+[2016-05-04 15:37:19,218][DEBUG]打印任务完成成功
+[2016-05-04 15:37:19,328][DEBUG]打印任务完成成功
+[2016-05-04 15:37:19,437][DEBUG]打印任务完成成功
+[2016-05-04 15:37:19,453][DEBUG]order id: 2, order no: 2, printer id: 1 print OK
+[2016-05-04 15:37:19,500][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:19,500][DEBUG]driver printer gonna print
+[2016-05-04 15:37:19,500][DEBUG]really print over: 3
+[2016-05-04 15:37:19,546][DEBUG]打印任务完成成功
+[2016-05-04 15:37:19,656][DEBUG]打印任务完成成功
+[2016-05-04 15:37:19,765][DEBUG]打印任务完成成功
+[2016-05-04 15:37:19,812][DEBUG]order id: 3, order no: 3, printer id: 1 print OK
+[2016-05-04 15:37:19,812][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:19,812][DEBUG]driver printer gonna print
+[2016-05-04 15:37:19,812][DEBUG]really print over: 4
+[2016-05-04 15:37:19,875][DEBUG]打印任务完成成功
+[2016-05-04 15:37:20,125][DEBUG]order id: 4, order no: 4, printer id: 1 print OK
+[2016-05-04 15:37:20,125][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:20,125][DEBUG]driver printer gonna print
+[2016-05-04 15:37:20,125][DEBUG]really print over: 5
+[2016-05-04 15:37:20,437][DEBUG]order id: 5, order no: 5, printer id: 1 print OK
+[2016-05-04 15:37:20,437][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:20,437][DEBUG]driver printer gonna print
+[2016-05-04 15:37:20,437][DEBUG]really print over: 6
+[2016-05-04 15:37:20,750][DEBUG]order id: 6, order no: 6, printer id: 1 print OK
+[2016-05-04 15:37:20,750][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:20,750][DEBUG]driver printer gonna print
+[2016-05-04 15:37:20,750][DEBUG]really print over: 7
+[2016-05-04 15:37:21,062][DEBUG]order id: 7, order no: 7, printer id: 1 print OK
+[2016-05-04 15:37:21,062][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:21,062][DEBUG]driver printer gonna print
+[2016-05-04 15:37:21,062][DEBUG]really print over: 8
+[2016-05-04 15:37:21,375][DEBUG]order id: 8, order no: 8, printer id: 1 print OK
+[2016-05-04 15:37:21,375][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:21,375][DEBUG]driver printer gonna print
+[2016-05-04 15:37:21,375][DEBUG]really print over: 9
+[2016-05-04 15:37:21,687][DEBUG]order id: 9, order no: 9, printer id: 1 print OK
+[2016-05-04 15:37:21,687][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:21,687][DEBUG]driver printer gonna print
+[2016-05-04 15:37:21,687][DEBUG]really print over: 10
+[2016-05-04 15:37:22,000][DEBUG]order id: 10, order no: 10, printer id: 1 print OK
+[2016-05-04 15:37:22,015][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:22,015][DEBUG]driver printer gonna print
+[2016-05-04 15:37:22,015][DEBUG]really print over: 11
+[2016-05-04 15:37:22,328][DEBUG]order id: 11, order no: 11, printer id: 1 print OK
+[2016-05-04 15:37:22,328][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:22,328][DEBUG]driver printer gonna print
+[2016-05-04 15:37:22,328][DEBUG]really print over: 12
+[2016-05-04 15:37:22,640][DEBUG]order id: 12, order no: 12, printer id: 1 print OK
+[2016-05-04 15:37:22,687][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:22,687][DEBUG]driver printer gonna print
+[2016-05-04 15:37:22,687][DEBUG]really print over: 13
+[2016-05-04 15:37:23,000][DEBUG]order id: 13, order no: 13, printer id: 1 print OK
+[2016-05-04 15:37:23,062][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:23,062][DEBUG]driver printer gonna print
+[2016-05-04 15:37:23,062][DEBUG]really print over: 14
+[2016-05-04 15:37:23,375][DEBUG]order id: 14, order no: 14, printer id: 1 print OK
+[2016-05-04 15:37:23,390][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:23,390][DEBUG]driver printer gonna print
+[2016-05-04 15:37:23,390][DEBUG]really print over: 15
+[2016-05-04 15:37:23,703][DEBUG]order id: 15, order no: 15, printer id: 1 print OK
+[2016-05-04 15:37:23,703][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:23,703][DEBUG]driver printer gonna print
+[2016-05-04 15:37:23,703][DEBUG]really print over: 16
+[2016-05-04 15:37:24,015][DEBUG]order id: 16, order no: 16, printer id: 1 print OK
+[2016-05-04 15:37:24,015][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:24,015][DEBUG]driver printer gonna print
+[2016-05-04 15:37:24,015][DEBUG]really print over: 17
+[2016-05-04 15:37:24,328][DEBUG]order id: 17, order no: 17, printer id: 1 print OK
+[2016-05-04 15:37:24,328][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:24,328][DEBUG]driver printer gonna print
+[2016-05-04 15:37:24,328][DEBUG]really print over: 18
+[2016-05-04 15:37:24,640][DEBUG]order id: 18, order no: 18, printer id: 1 print OK
+[2016-05-04 15:37:24,640][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:37:24,640][DEBUG]driver printer gonna print
+[2016-05-04 15:37:24,640][DEBUG]really print over: 19
+[2016-05-04 15:37:24,953][DEBUG]order id: 19, order no: 19, printer id: 1 print OK
+[2016-05-04 15:43:26,390][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 15:43:31,375][DEBUG]数据库已经存在: E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa\bin\Debug\Data\Simcpa.mdb
+[2016-05-04 15:43:31,453][ERROR]创建数据库表 出错：表 'Simcpa' 已存在。
+[2016-05-04 15:43:31,468][DEBUG]正在同步打印机配置信息
+[2016-05-04 15:43:31,562][DEBUG]打印任务完成成功
+[2016-05-04 15:43:31,609][DEBUG]同步打印机配置信息完成
+[2016-05-04 15:43:31,609][DEBUG]Load ok !
+[2016-05-04 15:43:31,671][DEBUG]打印任务完成成功
+[2016-05-04 15:43:31,781][DEBUG]打印任务完成成功
+[2016-05-04 15:43:31,890][DEBUG]打印任务完成成功
+[2016-05-04 15:43:32,000][DEBUG]打印任务完成成功
+[2016-05-04 15:43:32,109][DEBUG]打印任务完成成功
+[2016-05-04 15:43:32,218][DEBUG]打印任务完成成功
+[2016-05-04 15:43:32,328][DEBUG]打印任务完成成功
+[2016-05-04 15:43:32,437][DEBUG]打印任务完成成功
+[2016-05-04 15:43:32,453][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:32,453][DEBUG]driver printer gonna print
+[2016-05-04 15:43:32,468][DEBUG]really print over: 10
+[2016-05-04 15:43:32,546][DEBUG]打印任务完成成功
+[2016-05-04 15:43:32,656][DEBUG]打印任务完成成功
+[2016-05-04 15:43:32,765][DEBUG]打印任务完成成功
+[2016-05-04 15:43:32,781][DEBUG]order id: 10, order no: 10, printer id: 1 print OK
+[2016-05-04 15:43:32,796][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:32,796][DEBUG]driver printer gonna print
+[2016-05-04 15:43:32,796][DEBUG]really print over: 11
+[2016-05-04 15:43:32,875][DEBUG]打印任务完成成功
+[2016-05-04 15:43:32,984][DEBUG]打印任务完成成功
+[2016-05-04 15:43:33,093][DEBUG]打印任务完成成功
+[2016-05-04 15:43:33,109][DEBUG]order id: 11, order no: 11, printer id: 1 print OK
+[2016-05-04 15:43:33,109][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:33,109][DEBUG]driver printer gonna print
+[2016-05-04 15:43:33,109][DEBUG]really print over: 12
+[2016-05-04 15:43:33,203][DEBUG]打印任务完成成功
+[2016-05-04 15:43:33,312][DEBUG]打印任务完成成功
+[2016-05-04 15:43:33,421][DEBUG]打印任务完成成功
+[2016-05-04 15:43:33,421][DEBUG]order id: 12, order no: 12, printer id: 1 print OK
+[2016-05-04 15:43:33,421][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:33,421][DEBUG]driver printer gonna print
+[2016-05-04 15:43:33,421][DEBUG]really print over: 13
+[2016-05-04 15:43:33,531][DEBUG]打印任务完成成功
+[2016-05-04 15:43:33,640][DEBUG]打印任务完成成功
+[2016-05-04 15:43:33,734][DEBUG]order id: 13, order no: 13, printer id: 1 print OK
+[2016-05-04 15:43:33,734][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:33,734][DEBUG]driver printer gonna print
+[2016-05-04 15:43:33,734][DEBUG]really print over: 14
+[2016-05-04 15:43:34,046][DEBUG]order id: 14, order no: 14, printer id: 1 print OK
+[2016-05-04 15:43:34,046][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:34,046][DEBUG]driver printer gonna print
+[2016-05-04 15:43:34,046][DEBUG]really print over: 15
+[2016-05-04 15:43:34,359][DEBUG]order id: 15, order no: 15, printer id: 1 print OK
+[2016-05-04 15:43:34,359][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:34,359][DEBUG]driver printer gonna print
+[2016-05-04 15:43:34,375][DEBUG]really print over: 16
+[2016-05-04 15:43:34,687][DEBUG]order id: 16, order no: 16, printer id: 1 print OK
+[2016-05-04 15:43:34,687][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:34,687][DEBUG]driver printer gonna print
+[2016-05-04 15:43:34,687][DEBUG]really print over: 17
+[2016-05-04 15:43:35,000][DEBUG]order id: 17, order no: 17, printer id: 1 print OK
+[2016-05-04 15:43:35,000][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:35,000][DEBUG]driver printer gonna print
+[2016-05-04 15:43:35,000][DEBUG]really print over: 18
+[2016-05-04 15:43:35,312][DEBUG]order id: 18, order no: 18, printer id: 1 print OK
+[2016-05-04 15:43:35,312][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:35,312][DEBUG]driver printer gonna print
+[2016-05-04 15:43:35,312][DEBUG]really print over: 19
+[2016-05-04 15:43:35,625][DEBUG]order id: 19, order no: 19, printer id: 1 print OK
+[2016-05-04 15:43:35,625][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:35,625][DEBUG]driver printer gonna print
+[2016-05-04 15:43:35,625][DEBUG]really print over: 20
+[2016-05-04 15:43:35,937][DEBUG]order id: 20, order no: 20, printer id: 1 print OK
+[2016-05-04 15:43:35,937][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:35,937][DEBUG]driver printer gonna print
+[2016-05-04 15:43:35,937][DEBUG]really print over: 21
+[2016-05-04 15:43:36,250][DEBUG]order id: 21, order no: 21, printer id: 1 print OK
+[2016-05-04 15:43:36,250][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:36,250][DEBUG]driver printer gonna print
+[2016-05-04 15:43:36,250][DEBUG]really print over: 22
+[2016-05-04 15:43:36,562][DEBUG]order id: 22, order no: 22, printer id: 1 print OK
+[2016-05-04 15:43:36,562][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:36,562][DEBUG]driver printer gonna print
+[2016-05-04 15:43:36,562][DEBUG]really print over: 23
+[2016-05-04 15:43:36,875][DEBUG]order id: 23, order no: 23, printer id: 1 print OK
+[2016-05-04 15:43:36,875][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:36,875][DEBUG]driver printer gonna print
+[2016-05-04 15:43:36,875][DEBUG]really print over: 24
+[2016-05-04 15:43:37,187][DEBUG]order id: 24, order no: 24, printer id: 1 print OK
+[2016-05-04 15:43:37,187][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:37,187][DEBUG]driver printer gonna print
+[2016-05-04 15:43:37,187][DEBUG]really print over: 25
+[2016-05-04 15:43:37,500][DEBUG]order id: 25, order no: 25, printer id: 1 print OK
+[2016-05-04 15:43:37,500][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:37,500][DEBUG]driver printer gonna print
+[2016-05-04 15:43:37,500][DEBUG]really print over: 26
+[2016-05-04 15:43:37,812][DEBUG]order id: 26, order no: 26, printer id: 1 print OK
+[2016-05-04 15:43:37,812][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:37,812][DEBUG]driver printer gonna print
+[2016-05-04 15:43:37,812][DEBUG]really print over: 27
+[2016-05-04 15:43:38,125][DEBUG]order id: 27, order no: 27, printer id: 1 print OK
+[2016-05-04 15:43:38,125][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:38,125][DEBUG]driver printer gonna print
+[2016-05-04 15:43:38,125][DEBUG]really print over: 28
+[2016-05-04 15:43:38,437][DEBUG]order id: 28, order no: 28, printer id: 1 print OK
+[2016-05-04 15:43:38,437][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:43:38,437][DEBUG]driver printer gonna print
+[2016-05-04 15:43:38,437][DEBUG]really print over: 29
+[2016-05-04 15:43:38,750][DEBUG]order id: 29, order no: 29, printer id: 1 print OK
+[2016-05-04 15:44:15,750][DEBUG]recv counter: 20, err counter: 0
+[2016-05-04 15:44:20,718][DEBUG]正在关闭Reader
+[2016-05-04 15:44:20,718][DEBUG]正在关闭writer
+[2016-05-04 15:44:20,718][DEBUG]正在shutdown
+[2016-05-04 15:44:20,718][DEBUG]正在关闭client
+[2016-05-04 15:44:20,734][ERROR]读取网络数据失败,异常信息：一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+[2016-05-04 15:44:31,765][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 15:44:38,328][DEBUG]数据库已经存在: E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa\bin\Debug\Data\Simcpa.mdb
+[2016-05-04 15:44:38,406][ERROR]创建数据库表 出错：表 'Simcpa' 已存在。
+[2016-05-04 15:44:38,421][DEBUG]正在同步打印机配置信息
+[2016-05-04 15:44:38,531][DEBUG]同步打印机配置信息完成
+[2016-05-04 15:44:38,531][DEBUG]Load ok !
+[2016-05-04 15:44:38,546][DEBUG]打印任务完成成功
+[2016-05-04 15:44:38,656][DEBUG]打印任务完成成功
+[2016-05-04 15:44:38,765][DEBUG]打印任务完成成功
+[2016-05-04 15:44:38,875][DEBUG]打印任务完成成功
+[2016-05-04 15:44:38,984][DEBUG]打印任务完成成功
+[2016-05-04 15:44:39,093][DEBUG]打印任务完成成功
+[2016-05-04 15:44:39,203][DEBUG]打印任务完成成功
+[2016-05-04 15:44:39,312][DEBUG]打印任务完成成功
+[2016-05-04 15:44:39,406][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:39,406][DEBUG]driver printer gonna print
+[2016-05-04 15:44:39,437][DEBUG]打印任务完成成功
+[2016-05-04 15:44:39,453][DEBUG]really print over: 10
+[2016-05-04 15:44:39,546][DEBUG]打印任务完成成功
+[2016-05-04 15:44:39,656][DEBUG]打印任务完成成功
+[2016-05-04 15:44:39,765][DEBUG]打印任务完成成功
+[2016-05-04 15:44:39,765][DEBUG]order id: 10, order no: 10, printer id: 1 print OK
+[2016-05-04 15:44:39,781][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:39,781][DEBUG]driver printer gonna print
+[2016-05-04 15:44:39,781][DEBUG]really print over: 11
+[2016-05-04 15:44:39,875][DEBUG]打印任务完成成功
+[2016-05-04 15:44:39,984][DEBUG]打印任务完成成功
+[2016-05-04 15:44:40,093][DEBUG]打印任务完成成功
+[2016-05-04 15:44:40,093][DEBUG]order id: 11, order no: 11, printer id: 1 print OK
+[2016-05-04 15:44:40,093][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:40,093][DEBUG]driver printer gonna print
+[2016-05-04 15:44:40,093][DEBUG]really print over: 12
+[2016-05-04 15:44:40,203][DEBUG]打印任务完成成功
+[2016-05-04 15:44:40,312][DEBUG]打印任务完成成功
+[2016-05-04 15:44:40,406][DEBUG]order id: 12, order no: 12, printer id: 1 print OK
+[2016-05-04 15:44:40,406][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:40,406][DEBUG]driver printer gonna print
+[2016-05-04 15:44:40,406][DEBUG]really print over: 13
+[2016-05-04 15:44:40,421][DEBUG]打印任务完成成功
+[2016-05-04 15:44:40,531][DEBUG]打印任务完成成功
+[2016-05-04 15:44:40,640][DEBUG]打印任务完成成功
+[2016-05-04 15:44:40,718][DEBUG]order id: 13, order no: 13, printer id: 1 print OK
+[2016-05-04 15:44:40,718][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:40,718][DEBUG]driver printer gonna print
+[2016-05-04 15:44:40,718][DEBUG]really print over: 14
+[2016-05-04 15:44:41,031][DEBUG]order id: 14, order no: 14, printer id: 1 print OK
+[2016-05-04 15:44:41,031][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:41,031][DEBUG]driver printer gonna print
+[2016-05-04 15:44:41,031][DEBUG]really print over: 15
+[2016-05-04 15:44:41,343][DEBUG]order id: 15, order no: 15, printer id: 1 print OK
+[2016-05-04 15:44:41,343][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:41,343][DEBUG]driver printer gonna print
+[2016-05-04 15:44:41,343][DEBUG]really print over: 16
+[2016-05-04 15:44:41,656][DEBUG]order id: 16, order no: 16, printer id: 1 print OK
+[2016-05-04 15:44:41,656][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:41,656][DEBUG]driver printer gonna print
+[2016-05-04 15:44:41,656][DEBUG]really print over: 17
+[2016-05-04 15:44:41,968][DEBUG]order id: 17, order no: 17, printer id: 1 print OK
+[2016-05-04 15:44:41,968][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:41,968][DEBUG]driver printer gonna print
+[2016-05-04 15:44:41,968][DEBUG]really print over: 18
+[2016-05-04 15:44:42,281][DEBUG]order id: 18, order no: 18, printer id: 1 print OK
+[2016-05-04 15:44:42,281][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:42,281][DEBUG]driver printer gonna print
+[2016-05-04 15:44:42,281][DEBUG]really print over: 19
+[2016-05-04 15:44:42,593][DEBUG]order id: 19, order no: 19, printer id: 1 print OK
+[2016-05-04 15:44:42,593][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:42,593][DEBUG]driver printer gonna print
+[2016-05-04 15:44:42,593][DEBUG]really print over: 20
+[2016-05-04 15:44:42,906][DEBUG]order id: 20, order no: 20, printer id: 1 print OK
+[2016-05-04 15:44:42,906][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:42,906][DEBUG]driver printer gonna print
+[2016-05-04 15:44:42,906][DEBUG]really print over: 21
+[2016-05-04 15:44:43,218][DEBUG]order id: 21, order no: 21, printer id: 1 print OK
+[2016-05-04 15:44:43,218][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:43,218][DEBUG]driver printer gonna print
+[2016-05-04 15:44:43,218][DEBUG]really print over: 22
+[2016-05-04 15:44:43,531][DEBUG]order id: 22, order no: 22, printer id: 1 print OK
+[2016-05-04 15:44:43,531][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:43,531][DEBUG]driver printer gonna print
+[2016-05-04 15:44:43,531][DEBUG]really print over: 23
+[2016-05-04 15:44:43,843][DEBUG]order id: 23, order no: 23, printer id: 1 print OK
+[2016-05-04 15:44:43,843][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:43,843][DEBUG]driver printer gonna print
+[2016-05-04 15:44:43,843][DEBUG]really print over: 24
+[2016-05-04 15:44:44,156][DEBUG]order id: 24, order no: 24, printer id: 1 print OK
+[2016-05-04 15:44:44,156][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:44,156][DEBUG]driver printer gonna print
+[2016-05-04 15:44:44,156][DEBUG]really print over: 25
+[2016-05-04 15:44:44,468][DEBUG]order id: 25, order no: 25, printer id: 1 print OK
+[2016-05-04 15:44:44,468][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:44,468][DEBUG]driver printer gonna print
+[2016-05-04 15:44:44,468][DEBUG]really print over: 26
+[2016-05-04 15:44:44,781][DEBUG]order id: 26, order no: 26, printer id: 1 print OK
+[2016-05-04 15:44:44,781][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:44,781][DEBUG]driver printer gonna print
+[2016-05-04 15:44:44,781][DEBUG]really print over: 27
+[2016-05-04 15:44:45,093][DEBUG]order id: 27, order no: 27, printer id: 1 print OK
+[2016-05-04 15:44:45,093][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:45,093][DEBUG]driver printer gonna print
+[2016-05-04 15:44:45,093][DEBUG]really print over: 28
+[2016-05-04 15:44:45,406][DEBUG]order id: 28, order no: 28, printer id: 1 print OK
+[2016-05-04 15:44:45,406][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:44:45,406][DEBUG]driver printer gonna print
+[2016-05-04 15:44:45,406][DEBUG]really print over: 29
+[2016-05-04 15:44:45,718][DEBUG]order id: 29, order no: 29, printer id: 1 print OK
+[2016-05-04 15:55:06,406][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 15:55:15,453][DEBUG]数据库已经存在: E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa\bin\Debug\Data\Simcpa.mdb
+[2016-05-04 15:55:15,546][ERROR]创建数据库表 出错：表 'Simcpa' 已存在。
+[2016-05-04 15:55:15,562][DEBUG]正在同步打印机配置信息
+[2016-05-04 15:55:15,687][DEBUG]同步打印机配置信息完成
+[2016-05-04 15:55:15,687][DEBUG]Load ok !
+[2016-05-04 15:55:15,687][DEBUG]打印任务完成成功
+[2016-05-04 15:55:15,796][DEBUG]打印任务完成成功
+[2016-05-04 15:55:15,906][DEBUG]打印任务完成成功
+[2016-05-04 15:55:16,015][DEBUG]打印任务完成成功
+[2016-05-04 15:55:16,125][DEBUG]打印任务完成成功
+[2016-05-04 15:55:16,234][DEBUG]打印任务完成成功
+[2016-05-04 15:55:16,343][DEBUG]打印任务完成成功
+[2016-05-04 15:55:16,453][DEBUG]打印任务完成成功
+[2016-05-04 15:55:16,546][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:16,546][DEBUG]driver printer gonna print
+[2016-05-04 15:55:16,562][DEBUG]打印任务完成成功
+[2016-05-04 15:55:16,562][DEBUG]really print over: 10
+[2016-05-04 15:55:16,671][DEBUG]打印任务完成成功
+[2016-05-04 15:55:16,781][DEBUG]打印任务完成成功
+[2016-05-04 15:55:16,875][DEBUG]order id: 10, order no: 10, printer id: 1 print OK
+[2016-05-04 15:55:16,890][DEBUG]打印任务完成成功
+[2016-05-04 15:55:16,890][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:16,890][DEBUG]driver printer gonna print
+[2016-05-04 15:55:16,890][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：1
+[2016-05-04 15:55:32,937][ERROR]order id: 11, order no: 11, printer id: 1 print failed
+[2016-05-04 15:55:32,937][DEBUG]打印任务完成成功
+[2016-05-04 15:55:32,953][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:32,953][DEBUG]driver printer gonna print
+[2016-05-04 15:55:32,953][DEBUG]really print over: 12
+[2016-05-04 15:55:33,046][DEBUG]打印任务完成成功
+[2016-05-04 15:55:33,156][DEBUG]打印任务完成成功
+[2016-05-04 15:55:33,265][DEBUG]打印任务完成成功
+[2016-05-04 15:55:33,265][DEBUG]order id: 12, order no: 12, printer id: 1 print OK
+[2016-05-04 15:55:33,265][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:33,265][DEBUG]driver printer gonna print
+[2016-05-04 15:55:33,265][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：1
+[2016-05-04 15:55:33,265][ERROR]order id: 13, order no: 13, printer id: 1 print failed
+[2016-05-04 15:55:33,281][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:33,281][DEBUG]driver printer gonna print
+[2016-05-04 15:55:33,281][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：1
+[2016-05-04 15:55:33,281][ERROR]order id: 14, order no: 14, printer id: 1 print failed
+[2016-05-04 15:55:33,375][DEBUG]打印任务完成成功
+[2016-05-04 15:55:33,390][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:33,390][DEBUG]driver printer gonna print
+[2016-05-04 15:55:33,390][DEBUG]really print over: 15
+[2016-05-04 15:55:33,484][DEBUG]打印任务完成成功
+[2016-05-04 15:55:33,593][DEBUG]打印任务完成成功
+[2016-05-04 15:55:33,703][DEBUG]打印任务完成成功
+[2016-05-04 15:55:33,703][DEBUG]order id: 15, order no: 15, printer id: 1 print OK
+[2016-05-04 15:55:33,703][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:33,703][DEBUG]driver printer gonna print
+[2016-05-04 15:55:33,703][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：1
+[2016-05-04 15:55:33,703][ERROR]order id: 16, order no: 16, printer id: 1 print failed
+[2016-05-04 15:55:33,718][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:33,718][DEBUG]driver printer gonna print
+[2016-05-04 15:55:33,718][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：1
+[2016-05-04 15:55:33,718][ERROR]order id: 17, order no: 17, printer id: 1 print failed
+[2016-05-04 15:55:33,718][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:33,718][DEBUG]driver printer gonna print
+[2016-05-04 15:55:33,734][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：1
+[2016-05-04 15:55:33,734][ERROR]order id: 18, order no: 18, printer id: 1 print failed
+[2016-05-04 15:55:33,734][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:33,734][DEBUG]driver printer gonna print
+[2016-05-04 15:55:33,734][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：1
+[2016-05-04 15:55:33,734][ERROR]order id: 19, order no: 19, printer id: 1 print failed
+[2016-05-04 15:55:33,734][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:33,734][DEBUG]driver printer gonna print
+[2016-05-04 15:55:33,750][DEBUG]really print over: 20
+[2016-05-04 15:55:34,062][DEBUG]order id: 20, order no: 20, printer id: 1 print OK
+[2016-05-04 15:55:34,062][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:34,062][DEBUG]driver printer gonna print
+[2016-05-04 15:55:34,062][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：1
+[2016-05-04 15:55:34,062][ERROR]order id: 21, order no: 21, printer id: 1 print failed
+[2016-05-04 15:55:34,062][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:34,062][DEBUG]driver printer gonna print
+[2016-05-04 15:55:34,078][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：1
+[2016-05-04 15:55:34,078][ERROR]order id: 22, order no: 22, printer id: 1 print failed
+[2016-05-04 15:55:34,078][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:34,078][DEBUG]driver printer gonna print
+[2016-05-04 15:55:34,078][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：1
+[2016-05-04 15:55:34,078][ERROR]order id: 23, order no: 23, printer id: 1 print failed
+[2016-05-04 15:55:34,078][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:34,078][DEBUG]driver printer gonna print
+[2016-05-04 15:55:34,093][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：1
+[2016-05-04 15:55:34,093][ERROR]order id: 24, order no: 24, printer id: 1 print failed
+[2016-05-04 15:55:34,093][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:34,093][DEBUG]driver printer gonna print
+[2016-05-04 15:55:34,109][DEBUG]really print over: 25
+[2016-05-04 15:55:34,421][DEBUG]order id: 25, order no: 25, printer id: 1 print OK
+[2016-05-04 15:55:34,421][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:34,421][DEBUG]driver printer gonna print
+[2016-05-04 15:55:34,421][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：1
+[2016-05-04 15:55:34,421][ERROR]order id: 26, order no: 26, printer id: 1 print failed
+[2016-05-04 15:55:34,421][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:34,421][DEBUG]driver printer gonna print
+[2016-05-04 15:55:34,437][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：1
+[2016-05-04 15:55:34,437][ERROR]order id: 27, order no: 27, printer id: 1 print failed
+[2016-05-04 15:55:34,437][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:34,437][DEBUG]driver printer gonna print
+[2016-05-04 15:55:34,437][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：1
+[2016-05-04 15:55:34,437][ERROR]order id: 28, order no: 28, printer id: 1 print failed
+[2016-05-04 15:55:34,453][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 15:55:34,453][DEBUG]driver printer gonna print
+[2016-05-04 15:55:34,453][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：1
+[2016-05-04 15:55:34,453][ERROR]order id: 29, order no: 29, printer id: 1 print failed
+[2016-05-04 15:56:25,000][DEBUG]recv counter: 20, err counter: 0
+[2016-05-04 15:56:29,890][DEBUG]正在关闭Reader
+[2016-05-04 15:56:29,890][DEBUG]正在关闭writer
+[2016-05-04 15:56:29,890][DEBUG]正在shutdown
+[2016-05-04 15:56:29,890][DEBUG]正在关闭client
+[2016-05-04 15:56:29,890][ERROR]读取网络数据失败,异常信息：一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+[2016-05-04 16:09:14,078][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 16:09:16,203][DEBUG]数据库已经存在: E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa\bin\Debug\Data\Simcpa.mdb
+[2016-05-04 16:09:16,281][ERROR]创建数据库表 出错：表 'Simcpa' 已存在。
+[2016-05-04 16:09:16,296][DEBUG]正在同步打印机配置信息
+[2016-05-04 16:09:16,390][DEBUG]同步打印机配置信息完成
+[2016-05-04 16:09:16,390][DEBUG]Load ok !
+[2016-05-04 16:09:16,390][DEBUG]打印任务完成成功
+[2016-05-04 16:09:16,500][DEBUG]打印任务完成成功
+[2016-05-04 16:09:16,609][DEBUG]打印任务完成成功
+[2016-05-04 16:09:16,718][DEBUG]打印任务完成成功
+[2016-05-04 16:09:16,828][DEBUG]打印任务完成成功
+[2016-05-04 16:09:16,937][DEBUG]打印任务完成成功
+[2016-05-04 16:09:17,046][DEBUG]打印任务完成成功
+[2016-05-04 16:09:17,156][DEBUG]打印任务完成成功
+[2016-05-04 16:09:17,265][DEBUG]打印任务完成成功
+[2016-05-04 16:09:17,281][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:17,281][DEBUG]driver printer gonna print
+[2016-05-04 16:09:17,296][DEBUG]really print over: 10
+[2016-05-04 16:09:17,375][DEBUG]打印任务完成成功
+[2016-05-04 16:09:17,484][DEBUG]打印任务完成成功
+[2016-05-04 16:09:17,593][DEBUG]打印任务完成成功
+[2016-05-04 16:09:17,609][DEBUG]order id: 10, order no: 10, printer id: 1 print OK
+[2016-05-04 16:09:17,625][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:17,625][DEBUG]driver printer gonna print
+[2016-05-04 16:09:17,625][DEBUG]really print over: 11
+[2016-05-04 16:09:17,703][DEBUG]打印任务完成成功
+[2016-05-04 16:09:17,812][DEBUG]打印任务完成成功
+[2016-05-04 16:09:17,921][DEBUG]打印任务完成成功
+[2016-05-04 16:09:17,937][DEBUG]order id: 11, order no: 11, printer id: 1 print OK
+[2016-05-04 16:09:17,937][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:17,937][DEBUG]driver printer gonna print
+[2016-05-04 16:09:17,937][DEBUG]really print over: 12
+[2016-05-04 16:09:18,031][DEBUG]打印任务完成成功
+[2016-05-04 16:09:18,140][DEBUG]打印任务完成成功
+[2016-05-04 16:09:18,250][DEBUG]打印任务完成成功
+[2016-05-04 16:09:18,250][DEBUG]order id: 12, order no: 12, printer id: 1 print OK
+[2016-05-04 16:09:18,250][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:18,250][DEBUG]driver printer gonna print
+[2016-05-04 16:09:18,250][DEBUG]really print over: 13
+[2016-05-04 16:09:18,359][DEBUG]打印任务完成成功
+[2016-05-04 16:09:18,468][DEBUG]打印任务完成成功
+[2016-05-04 16:09:18,562][DEBUG]order id: 13, order no: 13, printer id: 1 print OK
+[2016-05-04 16:09:18,562][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:18,562][DEBUG]driver printer gonna print
+[2016-05-04 16:09:18,562][DEBUG]really print over: 14
+[2016-05-04 16:09:18,875][DEBUG]order id: 14, order no: 14, printer id: 1 print OK
+[2016-05-04 16:09:18,875][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:18,875][DEBUG]driver printer gonna print
+[2016-05-04 16:09:18,875][DEBUG]really print over: 15
+[2016-05-04 16:09:19,187][DEBUG]order id: 15, order no: 15, printer id: 1 print OK
+[2016-05-04 16:09:19,187][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:19,187][DEBUG]driver printer gonna print
+[2016-05-04 16:09:19,187][DEBUG]really print over: 16
+[2016-05-04 16:09:19,500][DEBUG]order id: 16, order no: 16, printer id: 1 print OK
+[2016-05-04 16:09:19,500][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:19,500][DEBUG]driver printer gonna print
+[2016-05-04 16:09:19,500][DEBUG]really print over: 17
+[2016-05-04 16:09:19,812][DEBUG]order id: 17, order no: 17, printer id: 1 print OK
+[2016-05-04 16:09:19,812][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:19,812][DEBUG]driver printer gonna print
+[2016-05-04 16:09:19,812][DEBUG]really print over: 18
+[2016-05-04 16:09:20,125][DEBUG]order id: 18, order no: 18, printer id: 1 print OK
+[2016-05-04 16:09:20,125][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:20,125][DEBUG]driver printer gonna print
+[2016-05-04 16:09:20,125][DEBUG]really print over: 19
+[2016-05-04 16:09:20,437][DEBUG]order id: 19, order no: 19, printer id: 1 print OK
+[2016-05-04 16:09:20,437][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:20,437][DEBUG]driver printer gonna print
+[2016-05-04 16:09:20,437][DEBUG]really print over: 20
+[2016-05-04 16:09:20,750][DEBUG]order id: 20, order no: 20, printer id: 1 print OK
+[2016-05-04 16:09:20,750][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:20,750][DEBUG]driver printer gonna print
+[2016-05-04 16:09:20,750][DEBUG]really print over: 21
+[2016-05-04 16:09:21,062][DEBUG]order id: 21, order no: 21, printer id: 1 print OK
+[2016-05-04 16:09:21,062][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:21,062][DEBUG]driver printer gonna print
+[2016-05-04 16:09:21,062][DEBUG]really print over: 22
+[2016-05-04 16:09:21,375][DEBUG]order id: 22, order no: 22, printer id: 1 print OK
+[2016-05-04 16:09:21,375][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:21,375][DEBUG]driver printer gonna print
+[2016-05-04 16:09:21,375][DEBUG]really print over: 23
+[2016-05-04 16:09:21,687][DEBUG]order id: 23, order no: 23, printer id: 1 print OK
+[2016-05-04 16:09:21,687][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:21,687][DEBUG]driver printer gonna print
+[2016-05-04 16:09:21,687][DEBUG]really print over: 24
+[2016-05-04 16:09:22,000][DEBUG]order id: 24, order no: 24, printer id: 1 print OK
+[2016-05-04 16:09:22,000][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:22,000][DEBUG]driver printer gonna print
+[2016-05-04 16:09:22,000][DEBUG]really print over: 25
+[2016-05-04 16:09:22,312][DEBUG]order id: 25, order no: 25, printer id: 1 print OK
+[2016-05-04 16:09:22,312][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:22,312][DEBUG]driver printer gonna print
+[2016-05-04 16:09:22,312][DEBUG]really print over: 26
+[2016-05-04 16:09:22,625][DEBUG]order id: 26, order no: 26, printer id: 1 print OK
+[2016-05-04 16:09:22,625][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:22,625][DEBUG]driver printer gonna print
+[2016-05-04 16:09:22,625][DEBUG]really print over: 27
+[2016-05-04 16:09:22,937][DEBUG]order id: 27, order no: 27, printer id: 1 print OK
+[2016-05-04 16:09:22,937][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:22,937][DEBUG]driver printer gonna print
+[2016-05-04 16:09:22,937][DEBUG]really print over: 28
+[2016-05-04 16:09:23,250][DEBUG]order id: 28, order no: 28, printer id: 1 print OK
+[2016-05-04 16:09:23,250][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:09:23,250][DEBUG]driver printer gonna print
+[2016-05-04 16:09:23,250][DEBUG]really print over: 29
+[2016-05-04 16:09:23,562][DEBUG]order id: 29, order no: 29, printer id: 1 print OK
+[2016-05-04 16:11:05,546][DEBUG]recv counter: 20, err counter: 0
+[2016-05-04 16:11:10,500][DEBUG]正在关闭Reader
+[2016-05-04 16:11:10,500][DEBUG]正在关闭writer
+[2016-05-04 16:11:10,500][DEBUG]正在shutdown
+[2016-05-04 16:11:10,500][DEBUG]正在关闭client
+[2016-05-04 16:11:10,500][ERROR]读取网络数据失败,异常信息：一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+[2016-05-04 16:11:41,656][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 16:11:50,156][DEBUG]数据库已经存在: E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa\bin\Debug\Data\Simcpa.mdb
+[2016-05-04 16:11:50,234][ERROR]创建数据库表 出错：表 'Simcpa' 已存在。
+[2016-05-04 16:11:50,281][DEBUG]正在同步打印机配置信息
+[2016-05-04 16:11:50,359][DEBUG]同步打印机配置信息完成
+[2016-05-04 16:11:50,359][DEBUG]Load ok !
+[2016-05-04 16:11:50,375][DEBUG]打印任务完成成功
+[2016-05-04 16:11:50,484][DEBUG]打印任务完成成功
+[2016-05-04 16:11:50,593][DEBUG]打印任务完成成功
+[2016-05-04 16:11:50,703][DEBUG]打印任务完成成功
+[2016-05-04 16:11:50,812][DEBUG]打印任务完成成功
+[2016-05-04 16:11:50,921][DEBUG]打印任务完成成功
+[2016-05-04 16:11:51,031][DEBUG]打印任务完成成功
+[2016-05-04 16:11:51,140][DEBUG]打印任务完成成功
+[2016-05-04 16:11:51,250][DEBUG]打印任务完成成功
+[2016-05-04 16:11:51,265][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:51,265][DEBUG]driver printer gonna print
+[2016-05-04 16:11:51,281][DEBUG]really print over: 10
+[2016-05-04 16:11:51,359][DEBUG]打印任务完成成功
+[2016-05-04 16:11:51,468][DEBUG]打印任务完成成功
+[2016-05-04 16:11:51,578][DEBUG]打印任务完成成功
+[2016-05-04 16:11:51,593][DEBUG]order id: 10, order no: 10, printer id: 1 print OK
+[2016-05-04 16:11:51,609][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:51,609][DEBUG]driver printer gonna print
+[2016-05-04 16:11:51,609][DEBUG]really print over: 11
+[2016-05-04 16:11:51,687][DEBUG]打印任务完成成功
+[2016-05-04 16:11:51,796][DEBUG]打印任务完成成功
+[2016-05-04 16:11:51,906][DEBUG]打印任务完成成功
+[2016-05-04 16:11:51,921][DEBUG]order id: 11, order no: 11, printer id: 1 print OK
+[2016-05-04 16:11:51,921][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:51,921][DEBUG]driver printer gonna print
+[2016-05-04 16:11:51,921][DEBUG]really print over: 12
+[2016-05-04 16:11:52,015][DEBUG]打印任务完成成功
+[2016-05-04 16:11:52,125][DEBUG]打印任务完成成功
+[2016-05-04 16:11:52,234][DEBUG]打印任务完成成功
+[2016-05-04 16:11:52,234][DEBUG]order id: 12, order no: 12, printer id: 1 print OK
+[2016-05-04 16:11:52,234][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:52,234][DEBUG]driver printer gonna print
+[2016-05-04 16:11:52,234][DEBUG]really print over: 13
+[2016-05-04 16:11:52,343][DEBUG]打印任务完成成功
+[2016-05-04 16:11:52,453][DEBUG]打印任务完成成功
+[2016-05-04 16:11:52,546][DEBUG]order id: 13, order no: 13, printer id: 1 print OK
+[2016-05-04 16:11:52,546][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:52,546][DEBUG]driver printer gonna print
+[2016-05-04 16:11:52,546][DEBUG]really print over: 14
+[2016-05-04 16:11:52,859][DEBUG]order id: 14, order no: 14, printer id: 1 print OK
+[2016-05-04 16:11:52,859][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:52,859][DEBUG]driver printer gonna print
+[2016-05-04 16:11:52,859][DEBUG]really print over: 15
+[2016-05-04 16:11:53,171][DEBUG]order id: 15, order no: 15, printer id: 1 print OK
+[2016-05-04 16:11:53,171][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:53,171][DEBUG]driver printer gonna print
+[2016-05-04 16:11:53,171][DEBUG]really print over: 16
+[2016-05-04 16:11:53,484][DEBUG]order id: 16, order no: 16, printer id: 1 print OK
+[2016-05-04 16:11:53,484][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:53,484][DEBUG]driver printer gonna print
+[2016-05-04 16:11:53,484][DEBUG]really print over: 17
+[2016-05-04 16:11:53,796][DEBUG]order id: 17, order no: 17, printer id: 1 print OK
+[2016-05-04 16:11:53,796][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:53,796][DEBUG]driver printer gonna print
+[2016-05-04 16:11:53,796][DEBUG]really print over: 18
+[2016-05-04 16:11:54,109][DEBUG]order id: 18, order no: 18, printer id: 1 print OK
+[2016-05-04 16:11:54,109][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:54,109][DEBUG]driver printer gonna print
+[2016-05-04 16:11:54,109][DEBUG]really print over: 19
+[2016-05-04 16:11:54,421][DEBUG]order id: 19, order no: 19, printer id: 1 print OK
+[2016-05-04 16:11:54,421][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:54,421][DEBUG]driver printer gonna print
+[2016-05-04 16:11:54,421][DEBUG]really print over: 20
+[2016-05-04 16:11:54,734][DEBUG]order id: 20, order no: 20, printer id: 1 print OK
+[2016-05-04 16:11:54,734][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:54,734][DEBUG]driver printer gonna print
+[2016-05-04 16:11:54,734][DEBUG]really print over: 21
+[2016-05-04 16:11:55,046][DEBUG]order id: 21, order no: 21, printer id: 1 print OK
+[2016-05-04 16:11:55,046][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:55,046][DEBUG]driver printer gonna print
+[2016-05-04 16:11:55,046][DEBUG]really print over: 22
+[2016-05-04 16:11:55,359][DEBUG]order id: 22, order no: 22, printer id: 1 print OK
+[2016-05-04 16:11:55,359][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:55,359][DEBUG]driver printer gonna print
+[2016-05-04 16:11:55,359][DEBUG]really print over: 23
+[2016-05-04 16:11:55,671][DEBUG]order id: 23, order no: 23, printer id: 1 print OK
+[2016-05-04 16:11:55,671][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:55,671][DEBUG]driver printer gonna print
+[2016-05-04 16:11:55,671][DEBUG]really print over: 24
+[2016-05-04 16:11:55,984][DEBUG]order id: 24, order no: 24, printer id: 1 print OK
+[2016-05-04 16:11:55,984][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:55,984][DEBUG]driver printer gonna print
+[2016-05-04 16:11:55,984][DEBUG]really print over: 25
+[2016-05-04 16:11:56,312][DEBUG]order id: 25, order no: 25, printer id: 1 print OK
+[2016-05-04 16:11:56,312][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:56,312][DEBUG]driver printer gonna print
+[2016-05-04 16:11:56,312][DEBUG]really print over: 26
+[2016-05-04 16:11:56,625][DEBUG]order id: 26, order no: 26, printer id: 1 print OK
+[2016-05-04 16:11:56,640][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:56,640][DEBUG]driver printer gonna print
+[2016-05-04 16:11:56,640][DEBUG]really print over: 27
+[2016-05-04 16:11:56,953][DEBUG]order id: 27, order no: 27, printer id: 1 print OK
+[2016-05-04 16:11:56,953][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:56,953][DEBUG]driver printer gonna print
+[2016-05-04 16:11:56,953][DEBUG]really print over: 28
+[2016-05-04 16:11:57,265][DEBUG]order id: 28, order no: 28, printer id: 1 print OK
+[2016-05-04 16:11:57,265][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:11:57,265][DEBUG]driver printer gonna print
+[2016-05-04 16:11:57,265][DEBUG]really print over: 29
+[2016-05-04 16:11:57,578][DEBUG]order id: 29, order no: 29, printer id: 1 print OK
+[2016-05-04 16:12:27,359][DEBUG]recv counter: 20, err counter: 0
+[2016-05-04 16:12:32,250][DEBUG]正在关闭Reader
+[2016-05-04 16:12:32,250][DEBUG]正在关闭writer
+[2016-05-04 16:12:32,250][DEBUG]正在shutdown
+[2016-05-04 16:12:32,250][DEBUG]正在关闭client
+[2016-05-04 16:12:32,250][ERROR]读取网络数据失败,异常信息：一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+[2016-05-04 16:12:59,296][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 16:13:01,031][DEBUG]数据库已经存在: E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa\bin\Debug\Data\Simcpa.mdb
+[2016-05-04 16:13:01,234][ERROR]创建数据库表 出错：表 'Simcpa' 已存在。
+[2016-05-04 16:13:01,296][DEBUG]正在同步打印机配置信息
+[2016-05-04 16:13:01,546][DEBUG]打印任务完成成功
+[2016-05-04 16:13:01,640][DEBUG]打印任务完成成功
+[2016-05-04 16:13:01,750][DEBUG]打印任务完成成功
+[2016-05-04 16:13:01,843][DEBUG]打印任务完成成功
+[2016-05-04 16:13:01,953][DEBUG]打印任务完成成功
+[2016-05-04 16:13:02,046][DEBUG]打印任务完成成功
+[2016-05-04 16:13:02,156][DEBUG]打印任务完成成功
+[2016-05-04 16:13:02,265][DEBUG]打印任务完成成功
+[2016-05-04 16:13:02,265][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:02,265][DEBUG]driver printer gonna print
+[2016-05-04 16:13:02,312][DEBUG]really print over: 10
+[2016-05-04 16:13:02,359][DEBUG]同步打印机配置信息完成
+[2016-05-04 16:13:02,359][DEBUG]Load ok !
+[2016-05-04 16:13:02,375][DEBUG]打印任务完成成功
+[2016-05-04 16:13:02,484][DEBUG]打印任务完成成功
+[2016-05-04 16:13:02,593][DEBUG]打印任务完成成功
+[2016-05-04 16:13:02,703][DEBUG]打印任务完成成功
+[2016-05-04 16:13:02,718][DEBUG]order id: 10, order no: 10, printer id: 1 print OK
+[2016-05-04 16:13:02,750][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:02,750][DEBUG]driver printer gonna print
+[2016-05-04 16:13:02,750][DEBUG]really print over: 11
+[2016-05-04 16:13:02,812][DEBUG]打印任务完成成功
+[2016-05-04 16:13:02,921][DEBUG]打印任务完成成功
+[2016-05-04 16:13:03,031][DEBUG]打印任务完成成功
+[2016-05-04 16:13:03,062][DEBUG]order id: 11, order no: 11, printer id: 1 print OK
+[2016-05-04 16:13:03,062][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:03,062][DEBUG]driver printer gonna print
+[2016-05-04 16:13:03,062][DEBUG]really print over: 12
+[2016-05-04 16:13:03,140][DEBUG]打印任务完成成功
+[2016-05-04 16:13:03,250][DEBUG]打印任务完成成功
+[2016-05-04 16:13:03,359][DEBUG]打印任务完成成功
+[2016-05-04 16:13:03,375][DEBUG]order id: 12, order no: 12, printer id: 1 print OK
+[2016-05-04 16:13:03,375][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:03,375][DEBUG]driver printer gonna print
+[2016-05-04 16:13:03,375][DEBUG]really print over: 13
+[2016-05-04 16:13:03,468][DEBUG]打印任务完成成功
+[2016-05-04 16:13:03,578][DEBUG]打印任务完成成功
+[2016-05-04 16:13:03,687][DEBUG]order id: 13, order no: 13, printer id: 1 print OK
+[2016-05-04 16:13:03,687][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:03,687][DEBUG]driver printer gonna print
+[2016-05-04 16:13:03,687][DEBUG]really print over: 14
+[2016-05-04 16:13:04,000][DEBUG]order id: 14, order no: 14, printer id: 1 print OK
+[2016-05-04 16:13:04,000][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:04,000][DEBUG]driver printer gonna print
+[2016-05-04 16:13:04,000][DEBUG]really print over: 15
+[2016-05-04 16:13:04,312][DEBUG]order id: 15, order no: 15, printer id: 1 print OK
+[2016-05-04 16:13:04,312][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:04,312][DEBUG]driver printer gonna print
+[2016-05-04 16:13:04,312][DEBUG]really print over: 16
+[2016-05-04 16:13:04,625][DEBUG]order id: 16, order no: 16, printer id: 1 print OK
+[2016-05-04 16:13:04,625][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:04,625][DEBUG]driver printer gonna print
+[2016-05-04 16:13:04,625][DEBUG]really print over: 17
+[2016-05-04 16:13:04,937][DEBUG]order id: 17, order no: 17, printer id: 1 print OK
+[2016-05-04 16:13:04,937][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:04,937][DEBUG]driver printer gonna print
+[2016-05-04 16:13:04,937][DEBUG]really print over: 18
+[2016-05-04 16:13:05,250][DEBUG]order id: 18, order no: 18, printer id: 1 print OK
+[2016-05-04 16:13:05,250][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:05,250][DEBUG]driver printer gonna print
+[2016-05-04 16:13:05,250][DEBUG]really print over: 19
+[2016-05-04 16:13:05,562][DEBUG]order id: 19, order no: 19, printer id: 1 print OK
+[2016-05-04 16:13:05,562][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:05,562][DEBUG]driver printer gonna print
+[2016-05-04 16:13:05,562][DEBUG]really print over: 20
+[2016-05-04 16:13:05,875][DEBUG]order id: 20, order no: 20, printer id: 1 print OK
+[2016-05-04 16:13:05,875][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:05,875][DEBUG]driver printer gonna print
+[2016-05-04 16:13:05,875][DEBUG]really print over: 21
+[2016-05-04 16:13:06,187][DEBUG]order id: 21, order no: 21, printer id: 1 print OK
+[2016-05-04 16:13:06,187][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:06,187][DEBUG]driver printer gonna print
+[2016-05-04 16:13:06,187][DEBUG]really print over: 22
+[2016-05-04 16:13:06,500][DEBUG]order id: 22, order no: 22, printer id: 1 print OK
+[2016-05-04 16:13:06,500][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:06,500][DEBUG]driver printer gonna print
+[2016-05-04 16:13:06,500][DEBUG]really print over: 23
+[2016-05-04 16:13:06,812][DEBUG]order id: 23, order no: 23, printer id: 1 print OK
+[2016-05-04 16:13:06,812][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:06,812][DEBUG]driver printer gonna print
+[2016-05-04 16:13:06,812][DEBUG]really print over: 24
+[2016-05-04 16:13:07,125][DEBUG]order id: 24, order no: 24, printer id: 1 print OK
+[2016-05-04 16:13:07,125][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:07,125][DEBUG]driver printer gonna print
+[2016-05-04 16:13:07,125][DEBUG]really print over: 25
+[2016-05-04 16:13:07,437][DEBUG]order id: 25, order no: 25, printer id: 1 print OK
+[2016-05-04 16:13:07,437][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:07,437][DEBUG]driver printer gonna print
+[2016-05-04 16:13:07,437][DEBUG]really print over: 26
+[2016-05-04 16:13:07,750][DEBUG]order id: 26, order no: 26, printer id: 1 print OK
+[2016-05-04 16:13:07,750][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:07,750][DEBUG]driver printer gonna print
+[2016-05-04 16:13:07,750][DEBUG]really print over: 27
+[2016-05-04 16:13:08,062][DEBUG]order id: 27, order no: 27, printer id: 1 print OK
+[2016-05-04 16:13:08,062][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:08,062][DEBUG]driver printer gonna print
+[2016-05-04 16:13:08,062][DEBUG]really print over: 28
+[2016-05-04 16:13:08,375][DEBUG]order id: 28, order no: 28, printer id: 1 print OK
+[2016-05-04 16:13:08,375][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:13:08,375][DEBUG]driver printer gonna print
+[2016-05-04 16:13:08,375][DEBUG]really print over: 29
+[2016-05-04 16:13:08,687][DEBUG]order id: 29, order no: 29, printer id: 1 print OK
+[2016-05-04 16:15:45,968][DEBUG]recv counter: 20, err counter: 0
+[2016-05-04 16:15:50,953][DEBUG]正在关闭Reader
+[2016-05-04 16:15:50,953][DEBUG]正在关闭writer
+[2016-05-04 16:15:50,953][DEBUG]正在shutdown
+[2016-05-04 16:15:50,953][DEBUG]正在关闭client
+[2016-05-04 16:15:50,953][ERROR]读取网络数据失败,异常信息：一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+[2016-05-04 16:17:10,234][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 16:17:15,484][DEBUG]数据库已经存在: E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa\bin\Debug\Data\Simcpa.mdb
+[2016-05-04 16:17:15,562][ERROR]创建数据库表 出错：表 'Simcpa' 已存在。
+[2016-05-04 16:17:15,578][DEBUG]正在同步打印机配置信息
+[2016-05-04 16:17:15,671][DEBUG]同步打印机配置信息完成
+[2016-05-04 16:17:15,671][DEBUG]Load ok !
+[2016-05-04 16:17:15,671][DEBUG]打印任务完成成功
+[2016-05-04 16:17:15,781][DEBUG]打印任务完成成功
+[2016-05-04 16:17:15,890][DEBUG]打印任务完成成功
+[2016-05-04 16:17:16,000][DEBUG]打印任务完成成功
+[2016-05-04 16:17:16,109][DEBUG]打印任务完成成功
+[2016-05-04 16:17:16,218][DEBUG]打印任务完成成功
+[2016-05-04 16:17:16,328][DEBUG]打印任务完成成功
+[2016-05-04 16:17:16,437][DEBUG]打印任务完成成功
+[2016-05-04 16:17:16,546][DEBUG]打印任务完成成功
+[2016-05-04 16:17:16,562][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:16,562][DEBUG]driver printer gonna print
+[2016-05-04 16:17:16,578][DEBUG]really print over: 10
+[2016-05-04 16:17:16,656][DEBUG]打印任务完成成功
+[2016-05-04 16:17:16,765][DEBUG]打印任务完成成功
+[2016-05-04 16:17:16,875][DEBUG]打印任务完成成功
+[2016-05-04 16:17:16,890][DEBUG]order id: 10, order no: 10, printer id: 1 print OK
+[2016-05-04 16:17:16,906][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:16,906][DEBUG]driver printer gonna print
+[2016-05-04 16:17:16,906][DEBUG]really print over: 11
+[2016-05-04 16:17:16,984][DEBUG]打印任务完成成功
+[2016-05-04 16:17:17,093][DEBUG]打印任务完成成功
+[2016-05-04 16:17:17,203][DEBUG]打印任务完成成功
+[2016-05-04 16:17:17,218][DEBUG]order id: 11, order no: 11, printer id: 1 print OK
+[2016-05-04 16:17:17,218][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:17,218][DEBUG]driver printer gonna print
+[2016-05-04 16:17:17,218][DEBUG]really print over: 12
+[2016-05-04 16:17:17,312][DEBUG]打印任务完成成功
+[2016-05-04 16:17:17,421][DEBUG]打印任务完成成功
+[2016-05-04 16:17:17,531][DEBUG]打印任务完成成功
+[2016-05-04 16:17:17,531][DEBUG]order id: 12, order no: 12, printer id: 1 print OK
+[2016-05-04 16:17:17,531][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:17,531][DEBUG]driver printer gonna print
+[2016-05-04 16:17:17,531][DEBUG]really print over: 13
+[2016-05-04 16:17:17,640][DEBUG]打印任务完成成功
+[2016-05-04 16:17:17,750][DEBUG]打印任务完成成功
+[2016-05-04 16:17:17,843][DEBUG]order id: 13, order no: 13, printer id: 1 print OK
+[2016-05-04 16:17:17,843][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:17,843][DEBUG]driver printer gonna print
+[2016-05-04 16:17:17,843][DEBUG]really print over: 14
+[2016-05-04 16:17:18,156][DEBUG]order id: 14, order no: 14, printer id: 1 print OK
+[2016-05-04 16:17:18,156][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:18,156][DEBUG]driver printer gonna print
+[2016-05-04 16:17:18,156][DEBUG]really print over: 15
+[2016-05-04 16:17:18,468][DEBUG]order id: 15, order no: 15, printer id: 1 print OK
+[2016-05-04 16:17:18,468][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:18,468][DEBUG]driver printer gonna print
+[2016-05-04 16:17:18,468][DEBUG]really print over: 16
+[2016-05-04 16:17:18,781][DEBUG]order id: 16, order no: 16, printer id: 1 print OK
+[2016-05-04 16:17:18,781][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:18,781][DEBUG]driver printer gonna print
+[2016-05-04 16:17:18,781][DEBUG]really print over: 17
+[2016-05-04 16:17:19,093][DEBUG]order id: 17, order no: 17, printer id: 1 print OK
+[2016-05-04 16:17:19,093][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:19,093][DEBUG]driver printer gonna print
+[2016-05-04 16:17:19,093][DEBUG]really print over: 18
+[2016-05-04 16:17:19,406][DEBUG]order id: 18, order no: 18, printer id: 1 print OK
+[2016-05-04 16:17:19,406][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:19,406][DEBUG]driver printer gonna print
+[2016-05-04 16:17:19,406][DEBUG]really print over: 19
+[2016-05-04 16:17:19,718][DEBUG]order id: 19, order no: 19, printer id: 1 print OK
+[2016-05-04 16:17:19,718][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:19,718][DEBUG]driver printer gonna print
+[2016-05-04 16:17:19,718][DEBUG]really print over: 20
+[2016-05-04 16:17:20,031][DEBUG]order id: 20, order no: 20, printer id: 1 print OK
+[2016-05-04 16:17:20,031][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:20,031][DEBUG]driver printer gonna print
+[2016-05-04 16:17:20,031][DEBUG]really print over: 21
+[2016-05-04 16:17:20,343][DEBUG]order id: 21, order no: 21, printer id: 1 print OK
+[2016-05-04 16:17:20,359][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:20,359][DEBUG]driver printer gonna print
+[2016-05-04 16:17:20,359][DEBUG]really print over: 22
+[2016-05-04 16:17:20,671][DEBUG]order id: 22, order no: 22, printer id: 1 print OK
+[2016-05-04 16:17:20,671][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:20,671][DEBUG]driver printer gonna print
+[2016-05-04 16:17:20,671][DEBUG]really print over: 23
+[2016-05-04 16:17:20,984][DEBUG]order id: 23, order no: 23, printer id: 1 print OK
+[2016-05-04 16:17:20,984][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:20,984][DEBUG]driver printer gonna print
+[2016-05-04 16:17:20,984][DEBUG]really print over: 24
+[2016-05-04 16:17:21,296][DEBUG]order id: 24, order no: 24, printer id: 1 print OK
+[2016-05-04 16:17:21,296][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:21,296][DEBUG]driver printer gonna print
+[2016-05-04 16:17:21,296][DEBUG]really print over: 25
+[2016-05-04 16:17:21,609][DEBUG]order id: 25, order no: 25, printer id: 1 print OK
+[2016-05-04 16:17:21,609][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:21,609][DEBUG]driver printer gonna print
+[2016-05-04 16:17:21,609][DEBUG]really print over: 26
+[2016-05-04 16:17:21,921][DEBUG]order id: 26, order no: 26, printer id: 1 print OK
+[2016-05-04 16:17:21,921][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:21,921][DEBUG]driver printer gonna print
+[2016-05-04 16:17:21,921][DEBUG]really print over: 27
+[2016-05-04 16:17:22,234][DEBUG]order id: 27, order no: 27, printer id: 1 print OK
+[2016-05-04 16:17:22,234][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:22,234][DEBUG]driver printer gonna print
+[2016-05-04 16:17:22,234][DEBUG]really print over: 28
+[2016-05-04 16:17:22,546][DEBUG]order id: 28, order no: 28, printer id: 1 print OK
+[2016-05-04 16:17:22,546][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:17:22,546][DEBUG]driver printer gonna print
+[2016-05-04 16:17:22,546][DEBUG]really print over: 29
+[2016-05-04 16:17:22,859][DEBUG]order id: 29, order no: 29, printer id: 1 print OK
+[2016-05-04 16:18:32,343][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 16:18:48,125][DEBUG]数据库已经存在: E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa\bin\Debug\Data\Simcpa.mdb
+[2016-05-04 16:18:48,218][ERROR]创建数据库表 出错：表 'Simcpa' 已存在。
+[2016-05-04 16:18:48,234][DEBUG]正在同步打印机配置信息
+[2016-05-04 16:18:48,375][DEBUG]同步打印机配置信息完成
+[2016-05-04 16:18:48,375][DEBUG]Load ok !
+[2016-05-04 16:18:48,375][DEBUG]打印任务完成成功
+[2016-05-04 16:18:48,484][DEBUG]打印任务完成成功
+[2016-05-04 16:18:48,593][DEBUG]打印任务完成成功
+[2016-05-04 16:18:48,703][DEBUG]打印任务完成成功
+[2016-05-04 16:18:48,812][DEBUG]打印任务完成成功
+[2016-05-04 16:18:48,921][DEBUG]打印任务完成成功
+[2016-05-04 16:18:49,031][DEBUG]打印任务完成成功
+[2016-05-04 16:18:49,140][DEBUG]打印任务完成成功
+[2016-05-04 16:18:49,218][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:49,218][DEBUG]driver printer gonna print
+[2016-05-04 16:18:49,234][DEBUG]really print over: 10
+[2016-05-04 16:18:49,250][DEBUG]打印任务完成成功
+[2016-05-04 16:18:49,359][DEBUG]打印任务完成成功
+[2016-05-04 16:18:49,468][DEBUG]打印任务完成成功
+[2016-05-04 16:18:49,546][DEBUG]order id: 10, order no: 10, printer id: 1 print OK
+[2016-05-04 16:18:49,562][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:49,562][DEBUG]driver printer gonna print
+[2016-05-04 16:18:49,562][DEBUG]really print over: 11
+[2016-05-04 16:18:49,578][DEBUG]打印任务完成成功
+[2016-05-04 16:18:49,687][DEBUG]打印任务完成成功
+[2016-05-04 16:18:49,796][DEBUG]打印任务完成成功
+[2016-05-04 16:18:49,875][DEBUG]order id: 11, order no: 11, printer id: 1 print OK
+[2016-05-04 16:18:49,875][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:49,875][DEBUG]driver printer gonna print
+[2016-05-04 16:18:49,875][DEBUG]really print over: 12
+[2016-05-04 16:18:49,906][DEBUG]打印任务完成成功
+[2016-05-04 16:18:50,015][DEBUG]打印任务完成成功
+[2016-05-04 16:18:50,125][DEBUG]打印任务完成成功
+[2016-05-04 16:18:50,187][DEBUG]order id: 12, order no: 12, printer id: 1 print OK
+[2016-05-04 16:18:50,187][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:50,187][DEBUG]driver printer gonna print
+[2016-05-04 16:18:50,187][DEBUG]really print over: 13
+[2016-05-04 16:18:50,234][DEBUG]打印任务完成成功
+[2016-05-04 16:18:50,343][DEBUG]打印任务完成成功
+[2016-05-04 16:18:50,453][DEBUG]打印任务完成成功
+[2016-05-04 16:18:50,500][DEBUG]order id: 13, order no: 13, printer id: 1 print OK
+[2016-05-04 16:18:50,500][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:50,500][DEBUG]driver printer gonna print
+[2016-05-04 16:18:50,500][DEBUG]really print over: 14
+[2016-05-04 16:18:50,562][DEBUG]打印任务完成成功
+[2016-05-04 16:18:50,671][DEBUG]打印任务完成成功
+[2016-05-04 16:18:50,781][DEBUG]打印任务完成成功
+[2016-05-04 16:18:50,812][DEBUG]order id: 14, order no: 14, printer id: 1 print OK
+[2016-05-04 16:18:50,812][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:50,812][DEBUG]driver printer gonna print
+[2016-05-04 16:18:50,812][DEBUG]really print over: 15
+[2016-05-04 16:18:50,890][DEBUG]打印任务完成成功
+[2016-05-04 16:18:51,000][DEBUG]打印任务完成成功
+[2016-05-04 16:18:51,109][DEBUG]打印任务完成成功
+[2016-05-04 16:18:51,125][DEBUG]order id: 15, order no: 15, printer id: 1 print OK
+[2016-05-04 16:18:51,125][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:51,125][DEBUG]driver printer gonna print
+[2016-05-04 16:18:51,125][DEBUG]really print over: 16
+[2016-05-04 16:18:51,218][DEBUG]打印任务完成成功
+[2016-05-04 16:18:51,328][DEBUG]打印任务完成成功
+[2016-05-04 16:18:51,437][DEBUG]打印任务完成成功
+[2016-05-04 16:18:51,437][DEBUG]order id: 16, order no: 16, printer id: 1 print OK
+[2016-05-04 16:18:51,453][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:51,453][DEBUG]driver printer gonna print
+[2016-05-04 16:18:51,453][DEBUG]really print over: 17
+[2016-05-04 16:18:51,546][DEBUG]打印任务完成成功
+[2016-05-04 16:18:51,765][DEBUG]order id: 17, order no: 17, printer id: 1 print OK
+[2016-05-04 16:18:51,765][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:51,765][DEBUG]driver printer gonna print
+[2016-05-04 16:18:51,765][DEBUG]really print over: 18
+[2016-05-04 16:18:52,078][DEBUG]order id: 18, order no: 18, printer id: 1 print OK
+[2016-05-04 16:18:52,078][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:52,078][DEBUG]driver printer gonna print
+[2016-05-04 16:18:52,078][DEBUG]really print over: 19
+[2016-05-04 16:18:52,390][DEBUG]order id: 19, order no: 19, printer id: 1 print OK
+[2016-05-04 16:18:52,390][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:52,390][DEBUG]driver printer gonna print
+[2016-05-04 16:18:52,390][DEBUG]really print over: 20
+[2016-05-04 16:18:52,703][DEBUG]order id: 20, order no: 20, printer id: 1 print OK
+[2016-05-04 16:18:52,703][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:52,703][DEBUG]driver printer gonna print
+[2016-05-04 16:18:52,703][DEBUG]really print over: 21
+[2016-05-04 16:18:53,015][DEBUG]order id: 21, order no: 21, printer id: 1 print OK
+[2016-05-04 16:18:53,015][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:53,015][DEBUG]driver printer gonna print
+[2016-05-04 16:18:53,015][DEBUG]really print over: 22
+[2016-05-04 16:18:53,312][DEBUG]order id: 22, order no: 22, printer id: 1 print OK
+[2016-05-04 16:18:53,312][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:53,312][DEBUG]driver printer gonna print
+[2016-05-04 16:18:53,328][DEBUG]really print over: 23
+[2016-05-04 16:18:53,625][DEBUG]order id: 23, order no: 23, printer id: 1 print OK
+[2016-05-04 16:18:53,640][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:53,640][DEBUG]driver printer gonna print
+[2016-05-04 16:18:53,640][DEBUG]really print over: 24
+[2016-05-04 16:18:53,937][DEBUG]order id: 24, order no: 24, printer id: 1 print OK
+[2016-05-04 16:18:53,937][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:53,937][DEBUG]driver printer gonna print
+[2016-05-04 16:18:53,937][DEBUG]really print over: 25
+[2016-05-04 16:18:54,250][DEBUG]order id: 25, order no: 25, printer id: 1 print OK
+[2016-05-04 16:18:54,250][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:54,250][DEBUG]driver printer gonna print
+[2016-05-04 16:18:54,250][DEBUG]really print over: 26
+[2016-05-04 16:18:54,562][DEBUG]order id: 26, order no: 26, printer id: 1 print OK
+[2016-05-04 16:18:54,562][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:54,562][DEBUG]driver printer gonna print
+[2016-05-04 16:18:54,562][DEBUG]really print over: 27
+[2016-05-04 16:18:54,875][DEBUG]order id: 27, order no: 27, printer id: 1 print OK
+[2016-05-04 16:18:54,875][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:54,875][DEBUG]driver printer gonna print
+[2016-05-04 16:18:54,875][DEBUG]really print over: 28
+[2016-05-04 16:18:55,187][DEBUG]order id: 28, order no: 28, printer id: 1 print OK
+[2016-05-04 16:18:55,187][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:55,187][DEBUG]driver printer gonna print
+[2016-05-04 16:18:55,187][DEBUG]really print over: 29
+[2016-05-04 16:18:55,500][DEBUG]order id: 29, order no: 29, printer id: 1 print OK
+[2016-05-04 16:18:55,500][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:55,500][DEBUG]driver printer gonna print
+[2016-05-04 16:18:55,500][DEBUG]really print over: 30
+[2016-05-04 16:18:55,812][DEBUG]order id: 30, order no: 30, printer id: 1 print OK
+[2016-05-04 16:18:55,812][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:55,812][DEBUG]driver printer gonna print
+[2016-05-04 16:18:55,812][DEBUG]really print over: 31
+[2016-05-04 16:18:56,125][DEBUG]order id: 31, order no: 31, printer id: 1 print OK
+[2016-05-04 16:18:56,125][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:56,125][DEBUG]driver printer gonna print
+[2016-05-04 16:18:56,125][DEBUG]really print over: 32
+[2016-05-04 16:18:56,437][DEBUG]order id: 32, order no: 32, printer id: 1 print OK
+[2016-05-04 16:18:56,437][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:56,437][DEBUG]driver printer gonna print
+[2016-05-04 16:18:56,437][DEBUG]really print over: 33
+[2016-05-04 16:18:56,750][DEBUG]order id: 33, order no: 33, printer id: 1 print OK
+[2016-05-04 16:18:56,750][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:56,750][DEBUG]driver printer gonna print
+[2016-05-04 16:18:56,750][DEBUG]really print over: 34
+[2016-05-04 16:18:57,062][DEBUG]order id: 34, order no: 34, printer id: 1 print OK
+[2016-05-04 16:18:57,062][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:57,062][DEBUG]driver printer gonna print
+[2016-05-04 16:18:57,062][DEBUG]really print over: 35
+[2016-05-04 16:18:57,375][DEBUG]order id: 35, order no: 35, printer id: 1 print OK
+[2016-05-04 16:18:57,375][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:57,375][DEBUG]driver printer gonna print
+[2016-05-04 16:18:57,375][DEBUG]really print over: 36
+[2016-05-04 16:18:57,687][DEBUG]order id: 36, order no: 36, printer id: 1 print OK
+[2016-05-04 16:18:57,687][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:57,687][DEBUG]driver printer gonna print
+[2016-05-04 16:18:57,687][DEBUG]really print over: 37
+[2016-05-04 16:18:58,000][DEBUG]order id: 37, order no: 37, printer id: 1 print OK
+[2016-05-04 16:18:58,000][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:58,000][DEBUG]driver printer gonna print
+[2016-05-04 16:18:58,000][DEBUG]really print over: 38
+[2016-05-04 16:18:58,312][DEBUG]order id: 38, order no: 38, printer id: 1 print OK
+[2016-05-04 16:18:58,312][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:18:58,312][DEBUG]driver printer gonna print
+[2016-05-04 16:18:58,312][DEBUG]really print over: 39
+[2016-05-04 16:18:58,625][DEBUG]order id: 39, order no: 39, printer id: 1 print OK
+[2016-05-04 16:20:30,312][DEBUG]recv counter: 30, err counter: 0
+[2016-05-04 16:20:35,296][DEBUG]正在关闭Reader
+[2016-05-04 16:20:35,296][DEBUG]正在关闭writer
+[2016-05-04 16:20:35,296][DEBUG]正在shutdown
+[2016-05-04 16:20:35,296][DEBUG]正在关闭client
+[2016-05-04 16:20:35,296][ERROR]读取网络数据失败,异常信息：一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+[2016-05-04 16:20:50,203][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 16:21:01,875][DEBUG]数据库已经存在: E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa\bin\Debug\Data\Simcpa.mdb
+[2016-05-04 16:21:01,953][ERROR]创建数据库表 出错：表 'Simcpa' 已存在。
+[2016-05-04 16:21:02,015][DEBUG]正在同步打印机配置信息
+[2016-05-04 16:21:02,093][DEBUG]同步打印机配置信息完成
+[2016-05-04 16:21:02,093][DEBUG]Load ok !
+[2016-05-04 16:21:02,109][DEBUG]打印任务完成成功
+[2016-05-04 16:21:02,218][DEBUG]打印任务完成成功
+[2016-05-04 16:21:02,328][DEBUG]打印任务完成成功
+[2016-05-04 16:21:02,437][DEBUG]打印任务完成成功
+[2016-05-04 16:21:02,546][DEBUG]打印任务完成成功
+[2016-05-04 16:21:02,656][DEBUG]打印任务完成成功
+[2016-05-04 16:21:02,765][DEBUG]打印任务完成成功
+[2016-05-04 16:21:02,875][DEBUG]打印任务完成成功
+[2016-05-04 16:21:02,953][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:02,953][DEBUG]driver printer gonna print
+[2016-05-04 16:21:02,968][DEBUG]really print over: 10
+[2016-05-04 16:21:02,984][DEBUG]打印任务完成成功
+[2016-05-04 16:21:03,093][DEBUG]打印任务完成成功
+[2016-05-04 16:21:03,203][DEBUG]打印任务完成成功
+[2016-05-04 16:21:03,281][DEBUG]order id: 10, order no: 10, printer id: 1 print OK
+[2016-05-04 16:21:03,296][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:03,296][DEBUG]driver printer gonna print
+[2016-05-04 16:21:03,296][DEBUG]really print over: 11
+[2016-05-04 16:21:03,312][DEBUG]打印任务完成成功
+[2016-05-04 16:21:03,421][DEBUG]打印任务完成成功
+[2016-05-04 16:21:03,531][DEBUG]打印任务完成成功
+[2016-05-04 16:21:03,609][DEBUG]order id: 11, order no: 11, printer id: 1 print OK
+[2016-05-04 16:21:03,609][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:03,609][DEBUG]driver printer gonna print
+[2016-05-04 16:21:03,609][DEBUG]really print over: 12
+[2016-05-04 16:21:03,640][DEBUG]打印任务完成成功
+[2016-05-04 16:21:03,750][DEBUG]打印任务完成成功
+[2016-05-04 16:21:03,859][DEBUG]打印任务完成成功
+[2016-05-04 16:21:03,921][DEBUG]order id: 12, order no: 12, printer id: 1 print OK
+[2016-05-04 16:21:03,921][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:03,921][DEBUG]driver printer gonna print
+[2016-05-04 16:21:03,921][DEBUG]really print over: 13
+[2016-05-04 16:21:03,968][DEBUG]打印任务完成成功
+[2016-05-04 16:21:04,078][DEBUG]打印任务完成成功
+[2016-05-04 16:21:04,187][DEBUG]打印任务完成成功
+[2016-05-04 16:21:04,234][DEBUG]order id: 13, order no: 13, printer id: 1 print OK
+[2016-05-04 16:21:04,234][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:04,234][DEBUG]driver printer gonna print
+[2016-05-04 16:21:04,234][DEBUG]really print over: 14
+[2016-05-04 16:21:04,296][DEBUG]打印任务完成成功
+[2016-05-04 16:21:04,406][DEBUG]打印任务完成成功
+[2016-05-04 16:21:04,515][DEBUG]打印任务完成成功
+[2016-05-04 16:21:04,546][DEBUG]order id: 14, order no: 14, printer id: 1 print OK
+[2016-05-04 16:21:04,546][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:04,546][DEBUG]driver printer gonna print
+[2016-05-04 16:21:04,546][DEBUG]really print over: 15
+[2016-05-04 16:21:04,625][DEBUG]打印任务完成成功
+[2016-05-04 16:21:04,734][DEBUG]打印任务完成成功
+[2016-05-04 16:21:04,843][DEBUG]打印任务完成成功
+[2016-05-04 16:21:04,859][DEBUG]order id: 15, order no: 15, printer id: 1 print OK
+[2016-05-04 16:21:04,859][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:04,859][DEBUG]driver printer gonna print
+[2016-05-04 16:21:04,859][DEBUG]really print over: 16
+[2016-05-04 16:21:04,953][DEBUG]打印任务完成成功
+[2016-05-04 16:21:05,062][DEBUG]打印任务完成成功
+[2016-05-04 16:21:05,171][DEBUG]打印任务完成成功
+[2016-05-04 16:21:05,171][DEBUG]order id: 16, order no: 16, printer id: 1 print OK
+[2016-05-04 16:21:05,171][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:05,171][DEBUG]driver printer gonna print
+[2016-05-04 16:21:05,171][DEBUG]really print over: 17
+[2016-05-04 16:21:05,281][DEBUG]打印任务完成成功
+[2016-05-04 16:21:05,484][DEBUG]order id: 17, order no: 17, printer id: 1 print OK
+[2016-05-04 16:21:05,484][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:05,484][DEBUG]driver printer gonna print
+[2016-05-04 16:21:05,484][DEBUG]really print over: 18
+[2016-05-04 16:21:05,796][DEBUG]order id: 18, order no: 18, printer id: 1 print OK
+[2016-05-04 16:21:05,796][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:05,796][DEBUG]driver printer gonna print
+[2016-05-04 16:21:05,796][DEBUG]really print over: 19
+[2016-05-04 16:21:06,109][DEBUG]order id: 19, order no: 19, printer id: 1 print OK
+[2016-05-04 16:21:06,109][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:06,109][DEBUG]driver printer gonna print
+[2016-05-04 16:21:06,109][DEBUG]really print over: 20
+[2016-05-04 16:21:06,421][DEBUG]order id: 20, order no: 20, printer id: 1 print OK
+[2016-05-04 16:21:06,421][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:06,421][DEBUG]driver printer gonna print
+[2016-05-04 16:21:06,421][DEBUG]really print over: 21
+[2016-05-04 16:21:06,734][DEBUG]order id: 21, order no: 21, printer id: 1 print OK
+[2016-05-04 16:21:06,734][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:06,734][DEBUG]driver printer gonna print
+[2016-05-04 16:21:06,734][DEBUG]really print over: 22
+[2016-05-04 16:21:07,046][DEBUG]order id: 22, order no: 22, printer id: 1 print OK
+[2016-05-04 16:21:07,046][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:07,046][DEBUG]driver printer gonna print
+[2016-05-04 16:21:07,046][DEBUG]really print over: 23
+[2016-05-04 16:21:07,359][DEBUG]order id: 23, order no: 23, printer id: 1 print OK
+[2016-05-04 16:21:07,359][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:07,359][DEBUG]driver printer gonna print
+[2016-05-04 16:21:07,359][DEBUG]really print over: 24
+[2016-05-04 16:21:07,671][DEBUG]order id: 24, order no: 24, printer id: 1 print OK
+[2016-05-04 16:21:07,671][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:07,671][DEBUG]driver printer gonna print
+[2016-05-04 16:21:07,671][DEBUG]really print over: 25
+[2016-05-04 16:21:07,968][DEBUG]order id: 25, order no: 25, printer id: 1 print OK
+[2016-05-04 16:21:07,984][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:07,984][DEBUG]driver printer gonna print
+[2016-05-04 16:21:07,984][DEBUG]really print over: 26
+[2016-05-04 16:21:08,281][DEBUG]order id: 26, order no: 26, printer id: 1 print OK
+[2016-05-04 16:21:08,281][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:08,281][DEBUG]driver printer gonna print
+[2016-05-04 16:21:08,296][DEBUG]really print over: 27
+[2016-05-04 16:21:08,593][DEBUG]order id: 27, order no: 27, printer id: 1 print OK
+[2016-05-04 16:21:08,593][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:08,593][DEBUG]driver printer gonna print
+[2016-05-04 16:21:08,593][DEBUG]really print over: 28
+[2016-05-04 16:21:08,906][DEBUG]order id: 28, order no: 28, printer id: 1 print OK
+[2016-05-04 16:21:08,906][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:08,906][DEBUG]driver printer gonna print
+[2016-05-04 16:21:08,906][DEBUG]really print over: 29
+[2016-05-04 16:21:09,234][DEBUG]order id: 29, order no: 29, printer id: 1 print OK
+[2016-05-04 16:21:09,234][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:09,234][DEBUG]driver printer gonna print
+[2016-05-04 16:21:09,234][DEBUG]really print over: 30
+[2016-05-04 16:21:09,546][DEBUG]order id: 30, order no: 30, printer id: 1 print OK
+[2016-05-04 16:21:09,546][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:09,546][DEBUG]driver printer gonna print
+[2016-05-04 16:21:09,546][DEBUG]really print over: 31
+[2016-05-04 16:21:09,859][DEBUG]order id: 31, order no: 31, printer id: 1 print OK
+[2016-05-04 16:21:09,859][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:09,859][DEBUG]driver printer gonna print
+[2016-05-04 16:21:09,859][DEBUG]really print over: 32
+[2016-05-04 16:21:10,171][DEBUG]order id: 32, order no: 32, printer id: 1 print OK
+[2016-05-04 16:21:10,171][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:10,171][DEBUG]driver printer gonna print
+[2016-05-04 16:21:10,171][DEBUG]really print over: 33
+[2016-05-04 16:21:10,484][DEBUG]order id: 33, order no: 33, printer id: 1 print OK
+[2016-05-04 16:21:10,484][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:10,484][DEBUG]driver printer gonna print
+[2016-05-04 16:21:10,484][DEBUG]really print over: 34
+[2016-05-04 16:21:10,796][DEBUG]order id: 34, order no: 34, printer id: 1 print OK
+[2016-05-04 16:21:10,796][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:10,796][DEBUG]driver printer gonna print
+[2016-05-04 16:21:10,796][DEBUG]really print over: 35
+[2016-05-04 16:21:11,109][DEBUG]order id: 35, order no: 35, printer id: 1 print OK
+[2016-05-04 16:21:11,109][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:11,109][DEBUG]driver printer gonna print
+[2016-05-04 16:21:11,109][DEBUG]really print over: 36
+[2016-05-04 16:21:11,421][DEBUG]order id: 36, order no: 36, printer id: 1 print OK
+[2016-05-04 16:21:11,421][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:11,421][DEBUG]driver printer gonna print
+[2016-05-04 16:21:11,421][DEBUG]really print over: 37
+[2016-05-04 16:21:11,734][DEBUG]order id: 37, order no: 37, printer id: 1 print OK
+[2016-05-04 16:21:11,734][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:11,734][DEBUG]driver printer gonna print
+[2016-05-04 16:21:11,734][DEBUG]really print over: 38
+[2016-05-04 16:21:12,046][DEBUG]order id: 38, order no: 38, printer id: 1 print OK
+[2016-05-04 16:21:12,046][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:21:12,046][DEBUG]driver printer gonna print
+[2016-05-04 16:21:12,046][DEBUG]really print over: 39
+[2016-05-04 16:21:12,343][DEBUG]order id: 39, order no: 39, printer id: 1 print OK
+[2016-05-04 16:24:02,234][DEBUG]recv counter: 30, err counter: 0
+[2016-05-04 16:24:07,203][DEBUG]正在关闭Reader
+[2016-05-04 16:24:07,203][DEBUG]正在关闭writer
+[2016-05-04 16:24:07,203][DEBUG]正在shutdown
+[2016-05-04 16:24:07,203][DEBUG]正在关闭client
+[2016-05-04 16:24:07,203][ERROR]读取网络数据失败,异常信息：一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+[2016-05-04 16:27:16,656][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 16:27:56,671][DEBUG]数据库已经存在: E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa\bin\Debug\Data\Simcpa.mdb
+[2016-05-04 16:27:56,750][ERROR]创建数据库表 出错：表 'Simcpa' 已存在。
+[2016-05-04 16:27:56,781][DEBUG]正在同步打印机配置信息
+[2016-05-04 16:27:56,921][DEBUG]同步打印机配置信息完成
+[2016-05-04 16:27:56,921][DEBUG]Load ok !
+[2016-05-04 16:27:56,921][DEBUG]打印任务完成成功
+[2016-05-04 16:27:57,031][DEBUG]打印任务完成成功
+[2016-05-04 16:27:57,140][DEBUG]打印任务完成成功
+[2016-05-04 16:27:57,250][DEBUG]打印任务完成成功
+[2016-05-04 16:27:57,359][DEBUG]打印任务完成成功
+[2016-05-04 16:27:57,468][DEBUG]打印任务完成成功
+[2016-05-04 16:27:57,578][DEBUG]打印任务完成成功
+[2016-05-04 16:27:57,687][DEBUG]打印任务完成成功
+[2016-05-04 16:27:57,750][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:27:57,750][DEBUG]driver printer gonna print
+[2016-05-04 16:27:57,765][DEBUG]really print over: 10
+[2016-05-04 16:27:57,796][DEBUG]打印任务完成成功
+[2016-05-04 16:27:57,906][DEBUG]打印任务完成成功
+[2016-05-04 16:27:58,078][DEBUG]order id: 10, order no: 10, printer id: 1 print OK
+[2016-05-04 16:27:58,093][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:27:58,093][DEBUG]driver printer gonna print
+[2016-05-04 16:27:58,093][DEBUG]really print over: 11
+[2016-05-04 16:27:58,406][DEBUG]order id: 11, order no: 11, printer id: 1 print OK
+[2016-05-04 16:27:58,406][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:27:58,406][DEBUG]driver printer gonna print
+[2016-05-04 16:27:58,406][DEBUG]really print over: 12
+[2016-05-04 16:27:58,718][DEBUG]order id: 12, order no: 12, printer id: 1 print OK
+[2016-05-04 16:27:58,718][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:27:58,718][DEBUG]driver printer gonna print
+[2016-05-04 16:27:58,718][DEBUG]really print over: 13
+[2016-05-04 16:27:59,031][DEBUG]order id: 13, order no: 13, printer id: 1 print OK
+[2016-05-04 16:27:59,031][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:27:59,031][DEBUG]driver printer gonna print
+[2016-05-04 16:27:59,031][DEBUG]really print over: 14
+[2016-05-04 16:27:59,343][DEBUG]order id: 14, order no: 14, printer id: 1 print OK
+[2016-05-04 16:27:59,343][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:27:59,343][DEBUG]driver printer gonna print
+[2016-05-04 16:27:59,343][DEBUG]really print over: 15
+[2016-05-04 16:27:59,656][DEBUG]order id: 15, order no: 15, printer id: 1 print OK
+[2016-05-04 16:27:59,656][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:27:59,656][DEBUG]driver printer gonna print
+[2016-05-04 16:27:59,656][DEBUG]really print over: 16
+[2016-05-04 16:27:59,968][DEBUG]order id: 16, order no: 16, printer id: 1 print OK
+[2016-05-04 16:27:59,968][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:27:59,968][DEBUG]driver printer gonna print
+[2016-05-04 16:27:59,968][DEBUG]really print over: 17
+[2016-05-04 16:28:00,281][DEBUG]order id: 17, order no: 17, printer id: 1 print OK
+[2016-05-04 16:28:00,281][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:28:00,281][DEBUG]driver printer gonna print
+[2016-05-04 16:28:00,281][DEBUG]really print over: 18
+[2016-05-04 16:28:00,593][DEBUG]order id: 18, order no: 18, printer id: 1 print OK
+[2016-05-04 16:28:00,593][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:28:00,593][DEBUG]driver printer gonna print
+[2016-05-04 16:28:00,593][DEBUG]really print over: 19
+[2016-05-04 16:28:00,906][DEBUG]order id: 19, order no: 19, printer id: 1 print OK
+[2016-05-04 16:37:01,656][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 16:37:56,578][DEBUG]数据库已经存在: E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa\bin\Debug\Data\Simcpa.mdb
+[2016-05-04 16:37:56,640][ERROR]创建数据库表 出错：表 'Simcpa' 已存在。
+[2016-05-04 16:37:56,671][DEBUG]正在同步打印机配置信息
+[2016-05-04 16:37:56,812][DEBUG]同步打印机配置信息完成
+[2016-05-04 16:37:56,812][DEBUG]Load ok !
+[2016-05-04 16:37:56,812][DEBUG]打印任务完成成功
+[2016-05-04 16:37:56,921][DEBUG]打印任务完成成功
+[2016-05-04 16:37:57,031][DEBUG]打印任务完成成功
+[2016-05-04 16:37:57,140][DEBUG]打印任务完成成功
+[2016-05-04 16:37:57,250][DEBUG]打印任务完成成功
+[2016-05-04 16:37:57,359][DEBUG]打印任务完成成功
+[2016-05-04 16:37:57,468][DEBUG]打印任务完成成功
+[2016-05-04 16:37:57,578][DEBUG]打印任务完成成功
+[2016-05-04 16:37:57,656][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:37:57,656][DEBUG]driver printer gonna print
+[2016-05-04 16:37:57,656][DEBUG]really print over: 10
+[2016-05-04 16:37:57,687][DEBUG]打印任务完成成功
+[2016-05-04 16:37:57,796][DEBUG]打印任务完成成功
+[2016-05-04 16:37:57,890][DEBUG]打印任务完成成功
+[2016-05-04 16:37:57,953][DEBUG]order id: 10, order no: 10, printer id: 1 print OK
+[2016-05-04 16:37:57,984][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:37:57,984][DEBUG]driver printer gonna print
+[2016-05-04 16:37:57,984][DEBUG]really print over: 11
+[2016-05-04 16:37:58,000][DEBUG]打印任务完成成功
+[2016-05-04 16:37:58,093][DEBUG]打印任务完成成功
+[2016-05-04 16:37:58,203][DEBUG]打印任务完成成功
+[2016-05-04 16:37:58,281][DEBUG]order id: 11, order no: 11, printer id: 1 print OK
+[2016-05-04 16:37:58,296][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:37:58,296][DEBUG]driver printer gonna print
+[2016-05-04 16:37:58,296][DEBUG]really print over: 12
+[2016-05-04 16:37:58,296][DEBUG]打印任务完成成功
+[2016-05-04 16:37:58,406][DEBUG]打印任务完成成功
+[2016-05-04 16:37:58,500][DEBUG]打印任务完成成功
+[2016-05-04 16:37:58,593][DEBUG]order id: 12, order no: 12, printer id: 1 print OK
+[2016-05-04 16:37:58,593][DEBUG]打印任务完成成功
+[2016-05-04 16:37:58,593][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:37:58,593][DEBUG]driver printer gonna print
+[2016-05-04 16:37:58,609][DEBUG]really print over: 13
+[2016-05-04 16:37:58,703][DEBUG]打印任务完成成功
+[2016-05-04 16:37:58,796][DEBUG]打印任务完成成功
+[2016-05-04 16:37:58,906][DEBUG]order id: 13, order no: 13, printer id: 1 print OK
+[2016-05-04 16:37:58,906][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:37:58,906][DEBUG]driver printer gonna print
+[2016-05-04 16:37:58,906][DEBUG]really print over: 14
+[2016-05-04 16:37:59,218][DEBUG]order id: 14, order no: 14, printer id: 1 print OK
+[2016-05-04 16:37:59,218][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:37:59,218][DEBUG]driver printer gonna print
+[2016-05-04 16:37:59,218][DEBUG]really print over: 15
+[2016-05-04 16:37:59,515][DEBUG]order id: 15, order no: 15, printer id: 1 print OK
+[2016-05-04 16:37:59,531][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:37:59,531][DEBUG]driver printer gonna print
+[2016-05-04 16:37:59,531][DEBUG]really print over: 16
+[2016-05-04 16:37:59,828][DEBUG]order id: 16, order no: 16, printer id: 1 print OK
+[2016-05-04 16:37:59,828][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:37:59,828][DEBUG]driver printer gonna print
+[2016-05-04 16:37:59,828][DEBUG]really print over: 17
+[2016-05-04 16:38:00,140][DEBUG]order id: 17, order no: 17, printer id: 1 print OK
+[2016-05-04 16:38:00,140][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:38:00,140][DEBUG]driver printer gonna print
+[2016-05-04 16:38:00,140][DEBUG]really print over: 18
+[2016-05-04 16:38:00,453][DEBUG]order id: 18, order no: 18, printer id: 1 print OK
+[2016-05-04 16:38:00,453][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:38:00,453][DEBUG]driver printer gonna print
+[2016-05-04 16:38:00,453][DEBUG]really print over: 19
+[2016-05-04 16:38:00,765][DEBUG]order id: 19, order no: 19, printer id: 1 print OK
+[2016-05-04 16:38:00,765][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:38:00,765][DEBUG]driver printer gonna print
+[2016-05-04 16:38:00,765][DEBUG]really print over: 20
+[2016-05-04 16:38:01,078][DEBUG]order id: 20, order no: 20, printer id: 1 print OK
+[2016-05-04 16:38:01,078][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:38:01,078][DEBUG]driver printer gonna print
+[2016-05-04 16:38:01,078][DEBUG]really print over: 21
+[2016-05-04 16:38:01,390][DEBUG]order id: 21, order no: 21, printer id: 1 print OK
+[2016-05-04 16:38:01,390][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:38:01,390][DEBUG]driver printer gonna print
+[2016-05-04 16:38:01,390][DEBUG]really print over: 22
+[2016-05-04 16:38:01,703][DEBUG]order id: 22, order no: 22, printer id: 1 print OK
+[2016-05-04 16:38:01,703][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:38:01,703][DEBUG]driver printer gonna print
+[2016-05-04 16:38:01,703][DEBUG]really print over: 23
+[2016-05-04 16:38:02,015][DEBUG]order id: 23, order no: 23, printer id: 1 print OK
+[2016-05-04 16:38:02,015][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:38:02,015][DEBUG]driver printer gonna print
+[2016-05-04 16:38:02,015][DEBUG]really print over: 24
+[2016-05-04 16:38:02,328][DEBUG]order id: 24, order no: 24, printer id: 1 print OK
+[2016-05-04 16:38:02,328][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:38:02,328][DEBUG]driver printer gonna print
+[2016-05-04 16:38:02,328][DEBUG]really print over: 25
+[2016-05-04 16:38:02,640][DEBUG]order id: 25, order no: 25, printer id: 1 print OK
+[2016-05-04 16:38:02,640][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:38:02,640][DEBUG]driver printer gonna print
+[2016-05-04 16:38:02,640][DEBUG]really print over: 26
+[2016-05-04 16:38:02,953][DEBUG]order id: 26, order no: 26, printer id: 1 print OK
+[2016-05-04 16:38:02,953][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:38:02,953][DEBUG]driver printer gonna print
+[2016-05-04 16:38:02,953][DEBUG]really print over: 27
+[2016-05-04 16:38:03,265][DEBUG]order id: 27, order no: 27, printer id: 1 print OK
+[2016-05-04 16:38:03,265][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:38:03,265][DEBUG]driver printer gonna print
+[2016-05-04 16:38:03,265][DEBUG]really print over: 28
+[2016-05-04 16:38:03,578][DEBUG]order id: 28, order no: 28, printer id: 1 print OK
+[2016-05-04 16:38:03,578][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:38:03,578][DEBUG]driver printer gonna print
+[2016-05-04 16:38:03,578][DEBUG]really print over: 29
+[2016-05-04 16:38:03,890][DEBUG]order id: 29, order no: 29, printer id: 1 print OK
+[2016-05-04 16:48:42,031][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 16:50:02,046][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 16:50:27,359][DEBUG]数据库已经存在: E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa\bin\Debug\Data\Simcpa.mdb
+[2016-05-04 16:50:27,437][ERROR]创建数据库表 出错：表 'Simcpa' 已存在。
+[2016-05-04 16:50:27,453][DEBUG]正在同步打印机配置信息
+[2016-05-04 16:50:27,609][DEBUG]同步打印机配置信息完成
+[2016-05-04 16:50:27,609][DEBUG]Load ok !
+[2016-05-04 16:50:27,640][DEBUG]打印任务完成成功
+[2016-05-04 16:50:27,750][DEBUG]打印任务完成成功
+[2016-05-04 16:50:27,859][DEBUG]打印任务完成成功
+[2016-05-04 16:50:27,968][DEBUG]打印任务完成成功
+[2016-05-04 16:50:28,078][DEBUG]打印任务完成成功
+[2016-05-04 16:50:28,187][DEBUG]打印任务完成成功
+[2016-05-04 16:50:28,296][DEBUG]打印任务完成成功
+[2016-05-04 16:50:28,406][DEBUG]打印任务完成成功
+[2016-05-04 16:50:28,437][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:28,437][DEBUG]driver printer gonna print
+[2016-05-04 16:50:28,453][DEBUG]really print over: 10
+[2016-05-04 16:50:28,515][DEBUG]打印任务完成成功
+[2016-05-04 16:50:28,625][DEBUG]打印任务完成成功
+[2016-05-04 16:50:28,734][DEBUG]打印任务完成成功
+[2016-05-04 16:50:28,765][DEBUG]order id: 10, order no: 10, printer id: 1 print OK
+[2016-05-04 16:50:28,796][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:28,796][DEBUG]driver printer gonna print
+[2016-05-04 16:50:28,796][DEBUG]really print over: 11
+[2016-05-04 16:50:28,843][DEBUG]打印任务完成成功
+[2016-05-04 16:50:28,953][DEBUG]打印任务完成成功
+[2016-05-04 16:50:29,062][DEBUG]打印任务完成成功
+[2016-05-04 16:50:29,109][DEBUG]order id: 11, order no: 11, printer id: 1 print OK
+[2016-05-04 16:50:29,109][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:29,109][DEBUG]driver printer gonna print
+[2016-05-04 16:50:29,109][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:29,109][ERROR]order id: 12, order no: 12, printer id: 1 print failed
+[2016-05-04 16:50:29,109][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:29,109][DEBUG]driver printer gonna print
+[2016-05-04 16:50:29,125][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:29,125][ERROR]order id: 13, order no: 13, printer id: 1 print failed
+[2016-05-04 16:50:29,125][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:29,125][DEBUG]driver printer gonna print
+[2016-05-04 16:50:29,125][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:29,125][ERROR]order id: 14, order no: 14, printer id: 1 print failed
+[2016-05-04 16:50:29,125][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:29,125][DEBUG]driver printer gonna print
+[2016-05-04 16:50:29,140][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:29,140][ERROR]order id: 15, order no: 15, printer id: 1 print failed
+[2016-05-04 16:50:29,140][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:29,140][DEBUG]driver printer gonna print
+[2016-05-04 16:50:29,140][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:29,140][ERROR]order id: 16, order no: 16, printer id: 1 print failed
+[2016-05-04 16:50:29,140][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:29,140][DEBUG]driver printer gonna print
+[2016-05-04 16:50:29,156][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:29,156][ERROR]order id: 17, order no: 17, printer id: 1 print failed
+[2016-05-04 16:50:29,156][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:29,156][DEBUG]driver printer gonna print
+[2016-05-04 16:50:29,156][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:29,156][ERROR]order id: 18, order no: 18, printer id: 1 print failed
+[2016-05-04 16:50:29,156][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:29,156][DEBUG]driver printer gonna print
+[2016-05-04 16:50:29,171][DEBUG]打印任务完成成功
+[2016-05-04 16:50:29,171][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:29,171][ERROR]order id: 19, order no: 19, printer id: 1 print failed
+[2016-05-04 16:50:29,171][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:29,171][DEBUG]driver printer gonna print
+[2016-05-04 16:50:29,171][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:29,171][ERROR]order id: 20, order no: 20, printer id: 1 print failed
+[2016-05-04 16:50:29,171][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:29,171][DEBUG]driver printer gonna print
+[2016-05-04 16:50:29,187][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:29,187][ERROR]order id: 21, order no: 21, printer id: 1 print failed
+[2016-05-04 16:50:29,187][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:29,187][DEBUG]driver printer gonna print
+[2016-05-04 16:50:29,187][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:29,187][ERROR]order id: 22, order no: 22, printer id: 1 print failed
+[2016-05-04 16:50:29,203][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:29,203][DEBUG]driver printer gonna print
+[2016-05-04 16:50:29,203][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:29,203][ERROR]order id: 23, order no: 23, printer id: 1 print failed
+[2016-05-04 16:50:29,203][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:29,203][DEBUG]driver printer gonna print
+[2016-05-04 16:50:29,218][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:29,218][ERROR]order id: 24, order no: 24, printer id: 1 print failed
+[2016-05-04 16:50:29,281][DEBUG]打印任务完成成功
+[2016-05-04 16:50:29,390][DEBUG]打印任务完成成功
+[2016-05-04 16:50:29,500][DEBUG]打印任务完成成功
+[2016-05-04 16:50:29,609][DEBUG]打印任务完成成功
+[2016-05-04 16:50:29,718][DEBUG]打印任务完成成功
+[2016-05-04 16:50:29,828][DEBUG]打印任务完成成功
+[2016-05-04 16:50:29,937][DEBUG]打印任务完成成功
+[2016-05-04 16:50:30,046][DEBUG]打印任务完成成功
+[2016-05-04 16:50:30,156][DEBUG]打印任务完成成功
+[2016-05-04 16:50:30,218][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:30,218][DEBUG]driver printer gonna print
+[2016-05-04 16:50:30,218][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:30,218][ERROR]order id: 25, order no: 25, printer id: 1 print failed
+[2016-05-04 16:50:30,218][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:30,218][DEBUG]driver printer gonna print
+[2016-05-04 16:50:30,218][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:30,218][ERROR]order id: 26, order no: 26, printer id: 1 print failed
+[2016-05-04 16:50:30,234][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:30,234][DEBUG]driver printer gonna print
+[2016-05-04 16:50:30,234][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:30,234][ERROR]order id: 27, order no: 27, printer id: 1 print failed
+[2016-05-04 16:50:30,234][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:30,234][DEBUG]driver printer gonna print
+[2016-05-04 16:50:30,250][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:30,250][ERROR]order id: 28, order no: 28, printer id: 1 print failed
+[2016-05-04 16:50:30,250][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:30,250][DEBUG]driver printer gonna print
+[2016-05-04 16:50:30,250][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:30,250][ERROR]order id: 29, order no: 29, printer id: 1 print failed
+[2016-05-04 16:50:30,250][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:30,250][DEBUG]driver printer gonna print
+[2016-05-04 16:50:30,265][DEBUG]打印任务完成成功
+[2016-05-04 16:50:30,265][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:30,265][ERROR]order id: 30, order no: 30, printer id: 1 print failed
+[2016-05-04 16:50:30,265][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:30,265][DEBUG]driver printer gonna print
+[2016-05-04 16:50:30,265][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:30,265][ERROR]order id: 31, order no: 31, printer id: 1 print failed
+[2016-05-04 16:50:30,281][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:30,281][DEBUG]driver printer gonna print
+[2016-05-04 16:50:30,281][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:30,281][ERROR]order id: 32, order no: 32, printer id: 1 print failed
+[2016-05-04 16:50:30,281][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:30,281][DEBUG]driver printer gonna print
+[2016-05-04 16:50:30,281][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:30,281][ERROR]order id: 33, order no: 33, printer id: 1 print failed
+[2016-05-04 16:50:30,296][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:30,296][DEBUG]driver printer gonna print
+[2016-05-04 16:50:30,296][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:30,296][ERROR]order id: 34, order no: 34, printer id: 1 print failed
+[2016-05-04 16:50:30,375][DEBUG]打印任务完成成功
+[2016-05-04 16:50:30,484][DEBUG]打印任务完成成功
+[2016-05-04 16:50:30,593][DEBUG]打印任务完成成功
+[2016-05-04 16:50:30,703][DEBUG]打印任务完成成功
+[2016-05-04 16:50:30,812][DEBUG]打印任务完成成功
+[2016-05-04 16:50:30,921][DEBUG]打印任务完成成功
+[2016-05-04 16:50:31,031][DEBUG]打印任务完成成功
+[2016-05-04 16:50:31,140][DEBUG]打印任务完成成功
+[2016-05-04 16:50:31,250][DEBUG]打印任务完成成功
+[2016-05-04 16:50:31,296][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:31,296][DEBUG]driver printer gonna print
+[2016-05-04 16:50:31,296][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:31,296][ERROR]order id: 35, order no: 35, printer id: 1 print failed
+[2016-05-04 16:50:31,296][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:31,296][DEBUG]driver printer gonna print
+[2016-05-04 16:50:31,296][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:31,296][ERROR]order id: 36, order no: 36, printer id: 1 print failed
+[2016-05-04 16:50:31,296][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:31,296][DEBUG]driver printer gonna print
+[2016-05-04 16:50:31,312][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:31,312][ERROR]order id: 37, order no: 37, printer id: 1 print failed
+[2016-05-04 16:50:31,312][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:31,312][DEBUG]driver printer gonna print
+[2016-05-04 16:50:31,312][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:31,312][ERROR]order id: 38, order no: 38, printer id: 1 print failed
+[2016-05-04 16:50:31,312][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:31,312][DEBUG]driver printer gonna print
+[2016-05-04 16:50:31,328][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:31,328][ERROR]order id: 39, order no: 39, printer id: 1 print failed
+[2016-05-04 16:50:31,328][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:31,328][DEBUG]driver printer gonna print
+[2016-05-04 16:50:31,328][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:31,328][ERROR]order id: 40, order no: 40, printer id: 1 print failed
+[2016-05-04 16:50:31,343][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:50:31,343][DEBUG]driver printer gonna print
+[2016-05-04 16:50:31,343][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:50:31,343][ERROR]order id: 41, order no: 41, printer id: 1 print failed
+[2016-05-04 16:50:31,359][DEBUG]recv counter: 34, err counter: 0
+[2016-05-04 16:50:31,375][ERROR]发送网络数据,异常信息：无法将数据写入传输连接: 您的主机中的软件放弃了一个已建立的连接。。
+[2016-05-04 16:51:34,359][ERROR]【Simcpa Version】: 1.0.0.1
+[2016-05-04 16:51:44,093][DEBUG]数据库已经存在: E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa\bin\Debug\Data\Simcpa.mdb
+[2016-05-04 16:51:44,171][ERROR]创建数据库表 出错：表 'Simcpa' 已存在。
+[2016-05-04 16:51:44,187][DEBUG]正在同步打印机配置信息
+[2016-05-04 16:51:44,343][DEBUG]同步打印机配置信息完成
+[2016-05-04 16:51:44,343][DEBUG]Load ok !
+[2016-05-04 16:51:44,343][DEBUG]打印任务完成成功
+[2016-05-04 16:51:44,453][DEBUG]打印任务完成成功
+[2016-05-04 16:51:44,562][DEBUG]打印任务完成成功
+[2016-05-04 16:51:44,671][DEBUG]打印任务完成成功
+[2016-05-04 16:51:44,781][DEBUG]打印任务完成成功
+[2016-05-04 16:51:44,890][DEBUG]打印任务完成成功
+[2016-05-04 16:51:45,000][DEBUG]打印任务完成成功
+[2016-05-04 16:51:45,109][DEBUG]打印任务完成成功
+[2016-05-04 16:51:45,171][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:45,171][DEBUG]driver printer gonna print
+[2016-05-04 16:51:45,187][DEBUG]really print over: 10
+[2016-05-04 16:51:45,218][DEBUG]打印任务完成成功
+[2016-05-04 16:51:45,328][DEBUG]打印任务完成成功
+[2016-05-04 16:51:45,437][DEBUG]打印任务完成成功
+[2016-05-04 16:51:45,500][DEBUG]order id: 10, order no: 10, printer id: 1 print OK
+[2016-05-04 16:51:45,515][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:45,515][DEBUG]driver printer gonna print
+[2016-05-04 16:51:45,515][DEBUG]really print over: 11
+[2016-05-04 16:51:45,546][DEBUG]打印任务完成成功
+[2016-05-04 16:51:45,656][DEBUG]打印任务完成成功
+[2016-05-04 16:51:45,765][DEBUG]打印任务完成成功
+[2016-05-04 16:51:45,828][DEBUG]order id: 11, order no: 11, printer id: 1 print OK
+[2016-05-04 16:51:45,828][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:45,828][DEBUG]driver printer gonna print
+[2016-05-04 16:51:45,828][DEBUG]really print over: 12
+[2016-05-04 16:51:45,875][DEBUG]打印任务完成成功
+[2016-05-04 16:51:45,984][DEBUG]打印任务完成成功
+[2016-05-04 16:51:46,093][DEBUG]打印任务完成成功
+[2016-05-04 16:51:46,140][DEBUG]order id: 12, order no: 12, printer id: 1 print OK
+[2016-05-04 16:51:46,140][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:46,140][DEBUG]driver printer gonna print
+[2016-05-04 16:51:46,140][DEBUG]really print over: 13
+[2016-05-04 16:51:46,203][DEBUG]打印任务完成成功
+[2016-05-04 16:51:46,312][DEBUG]打印任务完成成功
+[2016-05-04 16:51:46,421][DEBUG]打印任务完成成功
+[2016-05-04 16:51:46,453][DEBUG]order id: 13, order no: 13, printer id: 1 print OK
+[2016-05-04 16:51:46,453][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:46,453][DEBUG]driver printer gonna print
+[2016-05-04 16:51:46,453][DEBUG]really print over: 14
+[2016-05-04 16:51:46,531][DEBUG]打印任务完成成功
+[2016-05-04 16:51:46,640][DEBUG]打印任务完成成功
+[2016-05-04 16:51:46,750][DEBUG]打印任务完成成功
+[2016-05-04 16:51:46,765][DEBUG]order id: 14, order no: 14, printer id: 1 print OK
+[2016-05-04 16:51:46,765][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:46,765][DEBUG]driver printer gonna print
+[2016-05-04 16:51:46,765][DEBUG]really print over: 15
+[2016-05-04 16:51:46,859][DEBUG]打印任务完成成功
+[2016-05-04 16:51:46,968][DEBUG]打印任务完成成功
+[2016-05-04 16:51:47,078][DEBUG]打印任务完成成功
+[2016-05-04 16:51:47,078][DEBUG]order id: 15, order no: 15, printer id: 1 print OK
+[2016-05-04 16:51:47,078][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,078][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,078][DEBUG]really print over: 16
+[2016-05-04 16:51:47,187][DEBUG]打印任务完成成功
+[2016-05-04 16:51:47,296][DEBUG]打印任务完成成功
+[2016-05-04 16:51:47,390][DEBUG]order id: 16, order no: 16, printer id: 1 print OK
+[2016-05-04 16:51:47,390][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,390][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,390][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,390][ERROR]order id: 17, order no: 17, printer id: 1 print failed
+[2016-05-04 16:51:47,390][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,390][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,406][DEBUG]打印任务完成成功
+[2016-05-04 16:51:47,406][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,406][ERROR]order id: 18, order no: 18, printer id: 1 print failed
+[2016-05-04 16:51:47,406][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,406][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,406][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,406][ERROR]order id: 19, order no: 19, printer id: 1 print failed
+[2016-05-04 16:51:47,421][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,421][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,421][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,421][ERROR]order id: 20, order no: 20, printer id: 1 print failed
+[2016-05-04 16:51:47,421][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,421][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,437][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,437][ERROR]order id: 21, order no: 21, printer id: 1 print failed
+[2016-05-04 16:51:47,437][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,437][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,437][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,437][ERROR]order id: 22, order no: 22, printer id: 1 print failed
+[2016-05-04 16:51:47,437][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,437][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,453][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,453][ERROR]order id: 23, order no: 23, printer id: 1 print failed
+[2016-05-04 16:51:47,453][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,453][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,453][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,453][ERROR]order id: 24, order no: 24, printer id: 1 print failed
+[2016-05-04 16:51:47,453][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,453][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,468][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,468][ERROR]order id: 25, order no: 25, printer id: 1 print failed
+[2016-05-04 16:51:47,468][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,468][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,484][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,484][ERROR]order id: 26, order no: 26, printer id: 1 print failed
+[2016-05-04 16:51:47,484][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,484][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,484][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,484][ERROR]order id: 27, order no: 27, printer id: 1 print failed
+[2016-05-04 16:51:47,484][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,484][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,500][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,500][ERROR]order id: 28, order no: 28, printer id: 1 print failed
+[2016-05-04 16:51:47,500][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,500][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,500][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,500][ERROR]order id: 29, order no: 29, printer id: 1 print failed
+[2016-05-04 16:51:47,500][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,500][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,515][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,515][DEBUG]打印任务完成成功
+[2016-05-04 16:51:47,515][ERROR]order id: 30, order no: 30, printer id: 1 print failed
+[2016-05-04 16:51:47,515][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,515][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,515][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,515][ERROR]order id: 31, order no: 31, printer id: 1 print failed
+[2016-05-04 16:51:47,515][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,515][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,531][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,531][ERROR]order id: 32, order no: 32, printer id: 1 print failed
+[2016-05-04 16:51:47,546][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,546][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,562][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,562][ERROR]order id: 33, order no: 33, printer id: 1 print failed
+[2016-05-04 16:51:47,562][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,562][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,562][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,562][ERROR]order id: 34, order no: 34, printer id: 1 print failed
+[2016-05-04 16:51:47,562][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,562][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,562][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,562][ERROR]order id: 35, order no: 35, printer id: 1 print failed
+[2016-05-04 16:51:47,578][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,578][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,578][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,578][ERROR]order id: 36, order no: 36, printer id: 1 print failed
+[2016-05-04 16:51:47,578][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,578][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,578][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,578][ERROR]order id: 37, order no: 37, printer id: 1 print failed
+[2016-05-04 16:51:47,593][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,593][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,593][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,593][ERROR]order id: 38, order no: 38, printer id: 1 print failed
+[2016-05-04 16:51:47,593][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:47,593][DEBUG]driver printer gonna print
+[2016-05-04 16:51:47,609][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:47,609][ERROR]order id: 39, order no: 39, printer id: 1 print failed
+[2016-05-04 16:51:47,625][DEBUG]打印任务完成成功
+[2016-05-04 16:51:47,734][DEBUG]打印任务完成成功
+[2016-05-04 16:51:47,843][DEBUG]打印任务完成成功
+[2016-05-04 16:51:47,953][DEBUG]打印任务完成成功
+[2016-05-04 16:51:48,062][DEBUG]打印任务完成成功
+[2016-05-04 16:51:48,171][DEBUG]打印任务完成成功
+[2016-05-04 16:51:48,281][DEBUG]打印任务完成成功
+[2016-05-04 16:51:48,390][DEBUG]打印任务完成成功
+[2016-05-04 16:51:48,500][DEBUG]打印任务完成成功
+[2016-05-04 16:51:48,609][DEBUG]打印任务完成成功
+[2016-05-04 16:51:48,609][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:48,609][DEBUG]driver printer gonna print
+[2016-05-04 16:51:48,609][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:48,609][ERROR]order id: 40, order no: 40, printer id: 1 print failed
+[2016-05-04 16:51:48,609][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:48,609][DEBUG]driver printer gonna print
+[2016-05-04 16:51:48,609][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:48,609][ERROR]order id: 41, order no: 41, printer id: 1 print failed
+[2016-05-04 16:51:48,609][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:48,609][DEBUG]driver printer gonna print
+[2016-05-04 16:51:48,625][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:48,625][ERROR]order id: 42, order no: 42, printer id: 1 print failed
+[2016-05-04 16:51:48,625][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:48,625][DEBUG]driver printer gonna print
+[2016-05-04 16:51:48,625][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:48,625][ERROR]order id: 43, order no: 43, printer id: 1 print failed
+[2016-05-04 16:51:48,625][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:48,625][DEBUG]driver printer gonna print
+[2016-05-04 16:51:48,640][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:48,640][ERROR]order id: 44, order no: 44, printer id: 1 print failed
+[2016-05-04 16:51:48,640][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:48,640][DEBUG]driver printer gonna print
+[2016-05-04 16:51:48,640][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:48,640][ERROR]order id: 45, order no: 45, printer id: 1 print failed
+[2016-05-04 16:51:48,656][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:48,656][DEBUG]driver printer gonna print
+[2016-05-04 16:51:48,656][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:48,656][ERROR]order id: 46, order no: 46, printer id: 1 print failed
+[2016-05-04 16:51:48,656][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:48,656][DEBUG]driver printer gonna print
+[2016-05-04 16:51:48,671][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:48,671][ERROR]order id: 47, order no: 47, printer id: 1 print failed
+[2016-05-04 16:51:48,671][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:48,671][DEBUG]driver printer gonna print
+[2016-05-04 16:51:48,671][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:48,671][ERROR]order id: 48, order no: 48, printer id: 1 print failed
+[2016-05-04 16:51:48,671][DEBUG]非强制打印，检查订单号是否存在
+[2016-05-04 16:51:48,671][DEBUG]driver printer gonna print
+[2016-05-04 16:51:48,687][DEBUG]打印机(GP-58130 Series NET 10)队列有未消化的作业，作业数目：2
+[2016-05-04 16:51:48,687][ERROR]order id: 49, order no: 49, printer id: 1 print failed
+[2016-05-04 16:52:46,578][DEBUG]recv counter: 40, err counter: 0
+[2016-05-04 16:52:51,562][DEBUG]正在关闭Reader
+[2016-05-04 16:52:51,562][DEBUG]正在关闭writer
+[2016-05-04 16:52:51,562][DEBUG]正在shutdown
+[2016-05-04 16:52:51,562][DEBUG]正在关闭client
+[2016-05-04 16:52:51,562][ERROR]读取网络数据失败,异常信息：一个封锁操作被对 WSACancelBlockingCall 的调用中断。

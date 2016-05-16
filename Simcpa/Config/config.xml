@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <system>
+    <restaurant_id>122344</restaurant_id>
+    <server_ip>101.200.175.155</server_ip>
+    <server_port>7891</server_port>
+    <ver>1.0.0.1</ver>
+  </system>
+  <printers>
+    <printer>
+      <id>7</id>
+      <name>80Sprinter</name>
+      <print_width>80mm</print_width>
+      <type>WIFI</type>
+      <addr>192.168.2.15</addr>
+      <desc>80mm sprinter</desc>
+    </printer>
+    <printer>
+      <id>2</id>
+      <name>test printer 2</name>
+      <print_width>58mm</print_width>
+      <type>Ethernet</type>
+      <addr>192.168.2.11</addr>
+      <desc>gprinter 58130 usb</desc>
+    </printer>
+    <printer>
+      <id>3</id>
+      <name>driver net</name>
+      <print_width>58mm</print_width>
+      <type>Driver</type>
+      <addr>GP-58130 Series NET</addr>
+      <desc>input description of printer...</desc>
+    </printer>
+    <printer>
+      <id>4</id>
+      <name>driver usb</name>
+      <print_width>58mm</print_width>
+      <type>Driver</type>
+      <addr>GP-58130 Series USB</addr>
+      <desc>driver usb</desc>
+    </printer>
+    <printer>
+      <id>5</id>
+      <name>usb</name>
+      <print_width>80mm</print_width>
+      <type>USB</type>
+      <addr>just any</addr>
+      <desc>scan usb</desc>
+    </printer>
+    <printer>
+      <id>6</id>
+      <name>test printer</name>
+      <print_width>58mm</print_width>
+      <type>WIFI</type>
+      <addr>192.168.2.10</addr>
+      <desc>gprinter 58130 wifi</desc>
+    </printer>
+    <printer>
+      <id>1</id>
+      <name>auto_printer</name>
+      <print_width>80mm</print_width>
+      <type>Driver</type>
+      <addr>GP-58120 Series</addr>
+      <desc>this is auto created description</desc>
+    </printer>
+  </printers>
+</config>

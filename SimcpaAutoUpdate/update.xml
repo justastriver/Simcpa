@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--Desc: auto update configure file, allow redirect update link and remote download files, support remote excute commands-->
+<!--Auther: Andrew@quchifan.com-->
+<update>
+  <!--version of configure-->
+  <version>1.0.0.1</version>
+  <date>2016-04-25</date>
+  <interval>5000</interval>
+  <!--remote service change this to redirect new updating direction-->
+  <url href="http://182.92.76.190/update.xml"></url>
+  <filter>
+    <black>*</black>
+    <white>*</white>
+  </filter>
+  <monitor>
+    <service>SimcpaService</service>
+  </monitor>
+  <depend>
+    <service>SimcpaService</service>
+  </depend>
+  <!--files to download from, you can input different urls-->
+  <files>
+    <file name="Simcpa.exe" href="http://www.quchifan.com/software/printer/simcpa/simcpa.exe" local_path="./Simcpa.exe"></file>
+    <file name="config.xml" href="http://www.quchifan.com/software/printer/simcpa/config/config.xml" local_path="./Config/config.xml"></file>
+  </files>
+  <!--you can excute some command after files downloaded-->
+  <commands>
+    
+  </commands>
+</update>

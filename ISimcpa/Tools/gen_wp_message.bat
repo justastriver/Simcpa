@@ -1,0 +1,1 @@
+E:\Andrew\´òÓ¡»ú\Projects\protobuf\protobuf-net\ProtoGen\bin\Debug\protogen.exe -i:WPMessage.proto -o:WPMessage.cs

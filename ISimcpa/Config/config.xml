@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <system>
+    <restaurant_id>1111111</restaurant_id>
+    <server_ip>pisces.quchifan.com</server_ip>
+    <server_port>7891</server_port>
+    <heartbeat_interval>5000</heartbeat_interval>
+  </system>
+  <printers>
+    <printer>
+      <id>1</id>
+      <name>auto_gen_printer</name>
+      <print_width>80mm</print_width>
+      <type>Driver</type>
+      <addr>GP-58120 Series</addr>
+      <desc>this is auto created description, you must change it</desc>
+    </printer>
+  </printers>
+</config>

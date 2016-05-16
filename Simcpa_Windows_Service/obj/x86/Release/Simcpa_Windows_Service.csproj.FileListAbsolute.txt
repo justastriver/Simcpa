@@ -1,0 +1,15 @@
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa_Windows_Service\bin\Release\Data\simcpa.mdb
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa_Windows_Service\bin\Release\Simcpa_Windows_Service.exe.config
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa_Windows_Service\bin\Release\Simcpa_Windows_Service.exe
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa_Windows_Service\bin\Release\Simcpa_Windows_Service.pdb
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa_Windows_Service\bin\Release\ISimcpa.dll
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa_Windows_Service\bin\Release\protobuf-net.dll
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa_Windows_Service\bin\Release\libUsbContorl.dll
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa_Windows_Service\bin\Release\log4net.dll
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa_Windows_Service\bin\Release\ISimcpa.pdb
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa_Windows_Service\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa_Windows_Service\obj\x86\Release\Simcpa.ProjectInstaller.resources
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa_Windows_Service\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa_Windows_Service\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa_Windows_Service\obj\x86\Release\Simcpa_Windows_Service.exe
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\Simcpa_Windows_Service\obj\x86\Release\Simcpa_Windows_Service.pdb

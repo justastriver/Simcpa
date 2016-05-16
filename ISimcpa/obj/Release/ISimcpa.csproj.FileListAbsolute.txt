@@ -1,0 +1,12 @@
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\ISimcpa\bin\Release\Data\simcpa.mdb
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\ISimcpa\bin\Release\ISimcpa.dll
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\ISimcpa\bin\Release\ISimcpa.pdb
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\ISimcpa\bin\Release\libUsbContorl.dll
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\ISimcpa\bin\Release\log4net.dll
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\ISimcpa\bin\Release\protobuf-net.dll
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\ISimcpa\obj\Release\ResolveAssemblyReference.cache
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\ISimcpa\obj\Release\Interop.ADODB.dll
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\ISimcpa\obj\Release\Interop.ADOX.dll
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\ISimcpa\obj\Release\ISimcpa.csproj.ResolveComReference.cache
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\ISimcpa\obj\Release\ISimcpa.dll
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\ISimcpa\obj\Release\ISimcpa.pdb

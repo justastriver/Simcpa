@@ -1,0 +1,174 @@
+package winprint;
+message Header
+{
+	enum Command
+	{
+		HEARTBEAT = 1; //heartbeat
+		PRINTERTASK=2; //printer task
+		PRINTERINFO = 3;//printer info
+		NOTIFY = 4; //notify order printer status
+		UPDATECONFIG = 5;//reset config from server
+	}
+
+	required Command cmd = 1[default=HEARTBEAT];//request/response command
+	required int32 seq = 2; //sequence number, uniq random
+	required int32 restaurant_id =3;//node restaurant_id
+}
+message ServerConfig
+{
+	required string host = 1;//server host
+	required int32 port = 2;//server port
+	required int64 restaurant_id = 3;//can set restaurant id 
+	required int32 heartbeat_interval = 4;//heartbeat interval
+}
+message Result
+{
+	enum Code
+	{
+		SUCC=0;//success
+		ERR = 1;//error
+		UNKNOWN = 2;//unknown error
+	}
+	
+	required Code code = 1;//errorcode
+	optional string message = 2; //aditional message of errcode	
+}
+
+message HeartBeat
+{
+	required int32 printer_id = 1;//printer id
+	enum Status
+	{
+		OFFLINE = 0;//offline
+		LESSPAPER = 1;//paper less	
+		ONLINE = 2;//online
+	}
+	
+	required Status status = 2[default=ONLINE];
+	required int32 queue = 3;
+}
+
+message SlaveFoods
+{
+	required string name = 1; //food name
+	required string price = 2;//food price
+	required int32 num = 3;	//food count
+}
+
+message Foods
+{
+	required string name = 1; //food name
+	required string price = 2;//food price
+	required int32 num = 3;	//food count
+	repeated SlaveFoods slavefoods = 4;//slavefood list
+}
+
+message BookHead
+{
+	required string arrival_at = 1; //food name
+	required string people = 2;//food price
+	required string phone = 3;	//
+}
+
+message Head
+{
+	 required string title = 1;//title of Receipt
+	 required string subtitle = 2;//subtitle of Receipt
+	 required string way = 3; //way
+	 optional string password = 4;//password
+	 optional BookHead bookhead = 5;//book=1
+	 optional string table_card_no = 6;//table_card_no
+	 repeated string moreitems = 7;//head list to print
+	 optional string note = 8;//notice
+}
+message Body
+{
+	repeated Foods foods = 1;//food list
+}
+message Tail
+{
+	required string restaurant_name = 1;
+	required string totalprice = 2;
+	required string orderno = 3;
+	required string phone = 4;	
+	required string time = 5;
+	repeated string moreitems = 6;
+}
+
+message Receipt
+{
+	required int32 printer_id = 1;//printer configure
+	required int64 order_id = 2;//order id
+	required int32 print_num = 3;//order id
+	required Head head = 4;	 //head to print
+	required Body body = 5;	 //body to print
+	required Tail tail = 6;	 //tail to print
+	required int32 is_force_print = 7;//force to print
+}
+message ImageReceipt
+{
+	required int32 printer_id = 1;//printer configure
+	required int32 print_num = 2;//printer count
+	required int32 img_data_size = 3; //image data size (int bytes)
+	required bytes img_content = 4; //real image content (in bytes)
+}
+message NotifyOrders
+{
+	enum StatusCode
+	{
+		OK=0;//success
+		ERR = 1;//error
+	}
+	
+	required int64 order_id =  1;//
+	required StatusCode status = 2;//order print status finally
+	repeated int32 err_list = 3; //err printer_id list
+}
+
+//printer info will upload when configure changed or
+//some printer is offline
+message Printer
+{
+	required int32 id = 1;//printer id
+	enum Status
+	{
+		ONLINE = 0;//online
+		OFFLINE = 1;//offline
+		LESSPAPER = 2;//paper less
+		
+	}
+	required Status status = 2[default=ONLINE];
+	enum PrinterType
+	{
+		TYPE58 = 0;//default
+		TYPE80 = 1;
+	}
+	required PrinterType type = 3[default = TYPE58];
+	enum InterfaceType
+	{
+		USB = 0;
+		WIFI = 1;
+		ETH = 2;
+		COM = 3;
+		DRIVER = 4;
+	}
+	required InterfaceType itype = 4;
+	repeated int32 category = 5;
+	required string desc = 6;//printer description
+}
+
+message Data
+{
+	optional Result result = 1;//result
+	repeated HeartBeat heartbeat = 2;//heartbeat 
+	repeated Receipt receipts = 3;//receipt info
+	repeated Printer printers =4;//printer status info
+	repeated NotifyOrders notifyorders = 5;//notify orders
+	repeated ImageReceipt img_receipts = 6;//image receipts
+	optional ServerConfig servercfg = 7;//interface to update server configure
+}
+message Message
+{
+	required Header header = 1;
+	optional Data data = 2;
+}

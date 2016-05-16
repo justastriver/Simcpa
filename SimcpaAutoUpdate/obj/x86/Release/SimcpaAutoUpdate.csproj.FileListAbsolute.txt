@@ -1,0 +1,9 @@
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\SimcpaAutoUpdate\bin\Release\SimcpaAutoUpdate.exe.config
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\SimcpaAutoUpdate\bin\Release\SimcpaAutoUpdate.exe
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\SimcpaAutoUpdate\bin\Release\SimcpaAutoUpdate.pdb
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\SimcpaAutoUpdate\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\SimcpaAutoUpdate\obj\x86\Release\SimcpaAutoUpdate.ProjectInstaller.resources
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\SimcpaAutoUpdate\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\SimcpaAutoUpdate\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\SimcpaAutoUpdate\obj\x86\Release\SimcpaAutoUpdate.exe
+E:\Andrew\打印机\Projects\Simcpa\Simcpa\SimcpaAutoUpdate\obj\x86\Release\SimcpaAutoUpdate.pdb
